@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780">
+<defs>
+<linearGradient id="paint" x1="0" y1="0" x2=".15" y2="1"><stop stop-color="#f4f8ff"/><stop offset=".16" stop-color="#a9b7cc"/><stop offset=".34" stop-color="#6a768b"/><stop offset=".47" stop-color="#d0d9e7"/><stop offset=".54" stop-color="#778397"/><stop offset=".75" stop-color="#30394a"/><stop offset="1" stop-color="#172032"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#476389"/><stop offset=".4" stop-color="#1a2537"/><stop offset="1" stop-color="#070b12"/></linearGradient>
+<linearGradient id="rim"><stop stop-color="#f2f5fb"/><stop offset=".3" stop-color="#5b677c"/><stop offset=".6" stop-color="#cad4e5"/><stop offset="1" stop-color="#394359"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#204a9f" stop-opacity="0"/><stop offset=".5" stop-color="#4383ff"/><stop offset="1" stop-color="#204a9f" stop-opacity="0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="10"/></filter>
+<radialGradient id="studio"><stop stop-color="#203b6b" stop-opacity=".28"/><stop offset="1" stop-color="#0c0e12" stop-opacity="0"/></radialGradient>
+</defs>
+<ellipse cx="627" cy="460" rx="555" ry="268" fill="url(#studio)"/>
+<g stroke="#2c3b53" stroke-width="1" fill="none" opacity=".45"><path d="M65 545 1124 545M110 575h970M160 615h850M260 662h650"/><path d="m145 528-93 163m260-163-47 163m212-163v163m180-163 45 163m113-163 108 163"/></g>
+<ellipse cx="616" cy="542" rx="450" ry="46" fill="#04060b"/>
+<path d="M148 562h945" stroke="url(#blue)" stroke-width="18" filter="url(#glow)"/><path d="M183 561h874" stroke="url(#blue)" stroke-width="1.5"/>
+<!-- Original generic vehicle silhouette; no manufacturer branding. -->
+<path d="M115 479 135 425Q161 391 319 374L432 287Q460 268 521 268h182q78 6 170 98l112 20q87 11 110 60l8 50-29 32H140Z" fill="url(#paint)" stroke="#8996ad" stroke-width="1.4"/>
+<path d="M345 373 447 297q16-14 70-17h174q69 9 144 83l-109 9Z" fill="url(#glass)" stroke="#73849e" stroke-width="2"/>
+<path d="m513 281-40 90m182-89 25 89m-329 13 20 128m337-141 6 139m-139-137 0 137" fill="none" stroke="#3f4d65" stroke-width="3"/>
+<path d="M139 425q168-43 318-36l351-4q138-1 243 41" stroke="#e3ebfa" stroke-width="2" fill="none" opacity=".75"/>
+<path d="M180 461q329-39 730-16l170 19" stroke="#263852" stroke-width="3" fill="none"/>
+<path d="M412 474h229m84-4h86" stroke="#b2c7eb" stroke-width="1" fill="none" opacity=".5"/>
+<path d="m466 298 20-11 166 0-68 42Z" fill="#5b789b" opacity=".25"/>
+<path d="M641 366h31" stroke="#dde5f3" stroke-width="3" stroke-linecap="round"/>
+<path d="M765 362h32" stroke="#b4c6e0" stroke-width="3" stroke-linecap="round"/>
+<path d="m351 370-36-10-13 18 38 14" fill="#56647a" stroke="#98abc5"/>
+<path d="M121 448h77l-8 12h-73" fill="#e8f1ff"/><path d="M125 470h50" stroke="#9ab9ef" stroke-width="2"/>
+<path d="m1053 432 38 14 6 15-43-13Z" fill="#437ee8"/>
+<path d="m143 502 898 3-12 13H147Z" fill="#192235"/>
+<path d="m410 514 398 0" stroke="#7088b1" stroke-width="2"/>
+<g>
+<circle cx="296" cy="497" r="81" fill="#0a0e16"/><circle cx="296" cy="497" r="62" fill="#26334a" stroke="#94a4bd" stroke-width="4"/><circle cx="296" cy="497" r="50" fill="#0c1526" stroke="#697c9c" stroke-width="2"/>
+<g stroke="url(#rim)" stroke-width="12" stroke-linecap="round"><path d="m296 450 0 31m-45 7 30 10m-12 34 18-26m37 23-18-24m34-19-30 11"/></g><circle cx="296" cy="497" r="13" fill="#b7c9e5"/><circle cx="296" cy="497" r="6" fill="#3a4961"/>
+<circle cx="910" cy="497" r="81" fill="#0a0e16"/><circle cx="910" cy="497" r="62" fill="#26334a" stroke="#94a4bd" stroke-width="4"/><circle cx="910" cy="497" r="50" fill="#0c1526" stroke="#697c9c" stroke-width="2"/>
+<g stroke="url(#rim)" stroke-width="12" stroke-linecap="round"><path d="m910 450 0 31m-45 7 30 10m-12 34 18-26m37 23-18-24m34-19-30 11"/></g><circle cx="910" cy="497" r="13" fill="#b7c9e5"/><circle cx="910" cy="497" r="6" fill="#3a4961"/>
+</g>
+<path d="M208 494q3-94 87-91t86 94m442 0q0-94 86-94t89 94" fill="none" stroke="#d4dded" stroke-width="2" opacity=".8"/>
+<path d="m418 272 137-23h178" stroke="#4383ff" stroke-width="1" fill="none" opacity=".6"/><path d="m807 288 152-36h142m-997 206-47-36v-60" stroke="#425579" stroke-width="1" fill="none"/><g fill="#4383ff"><circle cx="807" cy="288" r="3"/><circle cx="418" cy="272" r="3"/><circle cx="104" cy="458" r="3"/></g>
+<g stroke="#4f6790" stroke-width="1" opacity=".6"><path d="M1096 231v38m-19-19h38M98 624v20m-10-10h20"/></g>
+</svg>

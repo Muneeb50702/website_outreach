@@ -1,0 +1,27 @@
+{
+  "slug": "da-silva-manchester",
+  "business_name": "Da Silva Auto Detailing LLC",
+  "industry": "Auto detailing",
+  "location": "Manchester, New Hampshire, USA",
+  "website": "https://dasilvaautodetail.wixsite.com/da-silva-auto-detail",
+  "services": ["Exterior and interior detailing", "Interior detailing", "Hand washing", "Pet hair removal", "Boat detailing"],
+  "contact": {"email": "dasilvaautodetail08@gmail.com", "phone": "+16038580455", "source_url": "https://dasilvaautodetail.wixsite.com/da-silva-auto-detail", "person": "Business team; individual contact name not verified"},
+  "address": "37 Maple Street, Manchester, NH, USA",
+  "primary_conversion": "phone_call",
+  "design_direction": "Distinct automotive design: graphite, chrome and electric blue, bold sans-serif typography, original side-profile vehicle illustration, interactive accessible service selector, compact contact section. No fake booking or fabricated results.",
+  "opportunity": {
+    "observation": "The desktop landing page begins with a Wix builder advertisement, repeated business-name welcome heading, social widget and gallery. No direct phone action appears in the initial viewport. Services contain visible spelling mistakes and contact is much farther down. The proposal uses a concise detailing offer, explicit call action and clearer service categories; no claim of measured conversion loss.",
+    "source_url": "https://dasilvaautodetail.wixsite.com/da-silva-auto-detail",
+    "priority": "qualified_visual_opportunity",
+    "qualified_for_outreach": true,
+    "comparison_checked_at": "2026-10-07T09:43:00Z",
+    "comparison_evidence": "Direct desktop browser screenshot and accessible page content inspected. Responsive/mobile source inspection is recorded separately before outreach; no claim that the existing mobile site is broken.",
+    "reason": "The business-owned page lists Manchester location, a public email and phone, and its services. Bounded Gmail identity/address search found no prior correspondence. Genuine business lead with an observable presentation opportunity; buying interest remains unknown."
+  },
+  "sources": [
+    {"url": "https://dasilvaautodetail.wixsite.com/da-silva-auto-detail", "checked_at": "2026-10-07T09:45:00Z", "facts": ["Da Silva Auto Detailing LLC", "Family-owned and operated in Manchester", "37 Maple Street, Manchester, NH, USA", "Public phone 603-858-0455", "Public email dasilvaautodetail08@gmail.com", "Interior and exterior hand washing/detailing", "Interior-only detailing, pet hair removal and boat detailing", "Pickup/delivery advertised within a 15-mile radius; availability must be confirmed", "Portuguese and Spanish speaking communities mentioned", "Builder banner and service label spelling errors visible"]}
+  ],
+  "uncertainties": ["Individual owner/contact name and business hours are not verified", "Current prices and appointment availability must be confirmed with the business; concept does not publish prices", "No claim of ceramic coating or paint correction", "Public contact is verified; deliverability and buying interest are unknown", "Original vehicle illustration is not a photograph of the business's work"],
+  "call_record": {"local_timezone": "America/New_York", "suggested_pkt_window": "18:00–21:00 on weekdays through 31 October 2026", "basis": "09:00–12:00 Manchester time during EDT; hours not published/verified"},
+  "assets": [{"path": "assets/vehicle.svg", "license": "Original SVG created by Codex for this independent concept; illustrative vehicle, no business project or manufacturer affiliation implied"}]
+}
