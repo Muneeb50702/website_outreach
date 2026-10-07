@@ -1,0 +1,26 @@
+{
+  "approved": true,
+  "fingerprint": "8fa55b0f4b00afa5eb903f007aad2525c85c4b36df4ee9a0b905ebb9930491c2",
+  "reviewer": "Codex — actual visual inspection",
+  "reviewed_at": "2026-10-07T10:52:30.214250Z",
+  "scores": {
+    "visual": 8.7,
+    "mobile": 8.6,
+    "business_relevance": 9.0,
+    "typography": 8.7,
+    "conversion": 8.8
+  },
+  "evidence": [
+    "Quality checks run https://github.com/Muneeb50702/website_outreach/actions/runs/37609971084 at commit 0a3d9607caddb264c7520976151f0424fc5726a7",
+    "Corrected illustration label actually inspected at 1440 and 768; 320 and 390 inspected together in lossless mobile-pair.png",
+    "All four viewports passed with no console/resource errors; exact fingerprint matches the final stylesheet"
+  ],
+  "limitations": [
+    "Subjective scores, not Lighthouse, accessibility certification or conversion measurements",
+    "Compact secondary labels and service descriptions at 320px; primary headings and contact actions remain legible",
+    "All illustration and surface studies are clearly disclosed; no claimed client before/after results",
+    "Fixed mobile call bar occurs near initial viewport bottom in full-page screenshots; footer has reserved space",
+    "Public contacts verified; hours, deliverability and buying interest unknown",
+    "Live controls will be checked after publication; no forms, booking or customer data collection"
+  ]
+}
