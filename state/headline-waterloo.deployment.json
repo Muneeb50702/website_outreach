@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "slug": "headline-waterloo",
+  "hostname": "headline-waterloo.muhammadmuneeb.tech",
+  "business_name": "Headline Barber Shop",
+  "status": "active",
+  "release": "e8f3717ef0e4cb6b9d132a4f",
+  "fingerprint": "2fb1582f449a278e21b3895f8f16349e6e3dafda37a4756e65527281f1eaa7c1",
+  "created_at": "2026-10-07T10:50:41.235Z",
+  "deployed_at": "2026-10-07T10:50:41.236Z",
+  "expires_at": "2026-10-14T10:50:41.236Z",
+  "interested": false,
+  "live_verified_at": "2026-10-07T10:50:51.044Z",
+  "preview_url": "https://headline-waterloo.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37609971129",
+  "tracker_row": 5
+}

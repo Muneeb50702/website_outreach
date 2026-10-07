@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "slug": "ita-decor-surrey",
+  "hostname": "ita-decor-surrey.muhammadmuneeb.tech",
+  "business_name": "ITA-DECOR",
+  "status": "active",
+  "release": "ecb7634d068526b44ac5ea87",
+  "fingerprint": "020664d2e522905686b4c3a24477674b414ac1f74099b0ca6cfc6260fdd14d64",
+  "created_at": "2026-10-07T10:51:49.627Z",
+  "deployed_at": "2026-10-07T10:51:49.627Z",
+  "expires_at": "2026-10-14T10:51:49.627Z",
+  "interested": false,
+  "live_verified_at": "2026-10-07T10:51:59.639Z",
+  "preview_url": "https://ita-decor-surrey.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37610057303",
+  "tracker_row": 6
+}

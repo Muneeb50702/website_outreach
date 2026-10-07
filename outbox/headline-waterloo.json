@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "headline-waterloo-e8f3717ef0e4cb6b9d132a4f",
+  "slug": "headline-waterloo",
+  "fingerprint": "2fb1582f449a278e21b3895f8f16349e6e3dafda37a4756e65527281f1eaa7c1",
+  "status": "needs_gmail_review",
+  "created_at": "2026-10-07T10:50:51.044Z",
+  "expires_at": "2026-10-14T10:50:41.236Z",
+  "preview_url": "https://headline-waterloo.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-07T10:50:51.044Z",
+  "recipient_source": "https://headlinebarbershop.wixsite.com/website",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "headline.barber.shop@gmail.com",
+  "subject": "A website concept for Headline Barber Shop",
+  "body": "Hi Headline Barber Shop team,\n\nI came across your business in Waterloo, Ontario, Canada and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://headline-waterloo.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up."
+}

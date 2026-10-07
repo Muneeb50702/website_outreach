@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "slug": "prestige-pressure-sydney",
+  "hostname": "prestige-pressure-sydney.muhammadmuneeb.tech",
+  "business_name": "Prestige Pressure and Property Maintenance",
+  "status": "active",
+  "release": "f05bc91c0d59ecb388a1c5f5",
+  "fingerprint": "8fa55b0f4b00afa5eb903f007aad2525c85c4b36df4ee9a0b905ebb9930491c2",
+  "created_at": "2026-10-07T10:53:51.870Z",
+  "deployed_at": "2026-10-07T10:53:51.870Z",
+  "expires_at": "2026-10-14T10:53:51.870Z",
+  "interested": false,
+  "live_verified_at": "2026-10-07T10:54:03.757Z",
+  "preview_url": "https://prestige-pressure-sydney.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37610319842",
+  "tracker_row": 7
+}

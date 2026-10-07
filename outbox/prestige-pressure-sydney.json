@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "prestige-pressure-sydney-f05bc91c0d59ecb388a1c5f5",
+  "slug": "prestige-pressure-sydney",
+  "fingerprint": "8fa55b0f4b00afa5eb903f007aad2525c85c4b36df4ee9a0b905ebb9930491c2",
+  "status": "needs_gmail_review",
+  "created_at": "2026-10-07T10:54:03.757Z",
+  "expires_at": "2026-10-14T10:53:51.870Z",
+  "preview_url": "https://prestige-pressure-sydney.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-07T10:54:03.757Z",
+  "recipient_source": "https://prestigepressureapm.wixsite.com/prestige-pressure-an",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "PrestigePressureC@gmail.com",
+  "subject": "A website concept for Prestige Pressure and Property Maintenance",
+  "body": "Hi Prestige Pressure and Property Maintenance team,\n\nI came across your business in Sydney, New South Wales, Australia and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://prestige-pressure-sydney.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up."
+}
