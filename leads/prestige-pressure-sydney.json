@@ -1,0 +1,77 @@
+{
+  "slug": "prestige-pressure-sydney",
+  "business_name": "Prestige Pressure and Property Maintenance",
+  "industry": "Exterior cleaning and property maintenance",
+  "location": "Sydney, New South Wales, Australia",
+  "website": "https://prestigepressureapm.wixsite.com/prestige-pressure-an",
+  "services": [
+    "Pressure washing",
+    "Lawn maintenance",
+    "Graffiti removal",
+    "Gutter cleaning",
+    "Window cleaning",
+    "Personalised jobs"
+  ],
+  "hours": "Not verified; no hours listed on inspected official home page.",
+  "contact": {
+    "email": "PrestigePressureC@gmail.com",
+    "phone": "+61480628261",
+    "source_url": "https://prestigepressureapm.wixsite.com/prestige-pressure-an",
+    "person": "Business team; individual name not verified"
+  },
+  "primary_conversion": "phone_call",
+  "design_direction": "Coastal mint and dark navy with a bold sans-serif hero, original pressure-washer illustration, six scannable service cards, accessible illustrative surface-study controls, and a direct phone/email section.",
+  "opportunity": {
+    "observation": "Existing desktop site already has a contact action and project imagery. Phone is footer text. Actual mobile screenshot starts with a large brand header, small centred introductory text and a Contact Us action, then project photos; direct phone call is not visible in the initial screen. Proposed clearer service headline and direct call action is a bounded improvement hypothesis, not a claim that the existing site is unusable or loses sales.",
+    "source_url": "https://prestigepressureapm.wixsite.com/prestige-pressure-an",
+    "priority": "verified_design_hypothesis",
+    "qualified_for_outreach": false,
+    "comparison_checked_at": "2026-10-07T10:44:53.166731Z",
+    "comparison_evidence": "Desktop browser screenshot and actual Google PageSpeed emulated mobile final screenshot inspected. Existing site has genuine imagery and contact form; concept deliberately uses disclosed original illustration. Bounded Gmail identity search found no prior match. Outreach not requested for this three-demo session.",
+    "mobile_report_url": "https://pagespeed.web.dev/analysis/https-prestigepressureapm-wixsite-com-prestige-pressure-an/25fcsbsqy0?form_factor=mobile"
+  },
+  "call_record": {
+    "local_timezone": "Australia/Sydney",
+    "suggested_pkt_window": "05:00–08:00 weekdays until 31 Oct 2026",
+    "basis": "Suggested local 11:00–14:00 AEDT (UTC+11) is 05:00–08:00 PKT on the current date. Hours not published; confirm availability."
+  },
+  "sources": [
+    {
+      "url": "https://prestigepressureapm.wixsite.com/prestige-pressure-an",
+      "checked_at": "2026-10-07T10:44:53.166731Z",
+      "facts": [
+        "Prestige Pressure and Property Maintenance",
+        "Sydney, New South Wales, Australia",
+        "Pressure washing",
+        "Lawn maintenance",
+        "Graffiti removal",
+        "Gutter cleaning",
+        "Window cleaning",
+        "Personalised jobs",
+        "Public phone +61480628261",
+        "Public email PrestigePressureC@gmail.com",
+        "Not verified; no hours listed on inspected official home page."
+      ]
+    },
+    {
+      "url": "https://pagespeed.web.dev/analysis/https-prestigepressureapm-wixsite-com-prestige-pressure-an/25fcsbsqy0?form_factor=mobile",
+      "checked_at": "2026-10-07T10:44:53.166731Z",
+      "facts": [
+        "Emulated mobile final screenshot inspected",
+        "One lab preview; not measured real-user conversions"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Current operation, responsiveness, deliverability and buying interest are not established by a public website",
+    "No independent certification, licensing, testimonial or conversion audit",
+    "No prices copied; confirm current prices and availability with the business",
+    "All demo illustration is original and clearly disclosed; not client project photography"
+  ],
+  "media": {
+    "type": "original_svg",
+    "creator": "Codex for Muhammad Muneeb",
+    "license": "Original artwork created for this concept; no third-party media",
+    "note": "Illustrative room palettes and cleaning surface studies are not real project outcomes"
+  }
+}

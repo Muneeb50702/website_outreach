@@ -1,0 +1,81 @@
+{
+  "slug": "headline-waterloo",
+  "business_name": "Headline Barber Shop",
+  "industry": "Barber shop",
+  "location": "Waterloo, Ontario, Canada",
+  "website": "https://headlinebarbershop.wixsite.com/website",
+  "services": [
+    "Regular haircut",
+    "Premium cut with razor shave at the back",
+    "Kids haircut",
+    "Haircut and beard trim",
+    "Beard trim and line-up",
+    "Hot lather shave",
+    "Neck clean-up",
+    "Hair wash"
+  ],
+  "hours": "Official site: Mon–Wed 10:00–18:30; Thu–Fri 10:00–19:00; Sat 09:00–17:00; Sun closed. Last client 20 minutes before closing; confirm directly.",
+  "contact": {
+    "email": "headline.barber.shop@gmail.com",
+    "phone": "+15198888220",
+    "source_url": "https://headlinebarbershop.wixsite.com/website",
+    "person": "Business team; individual name not verified"
+  },
+  "primary_conversion": "phone_call",
+  "design_direction": "Plum, warm cream and muted rose with oversized editorial serif headlines, an original classic barber-chair illustration, a numbered service menu, and a distinct dark hours/contact section.",
+  "opportunity": {
+    "observation": "The existing desktop page has a large logo/header and broad empty pricing-title area. On the actual mobile final screenshot, a booking action and contact details are visible, followed by a large blank area; the service offer and shop hours do not appear in that first view. Phone is plain text in the inspected desktop accessibility tree. This concept adds a clearer first-screen service offer and direct call links while keeping official-site access. Existing booking already works; no lost-sales claim.",
+    "source_url": "https://headlinebarbershop.wixsite.com/website",
+    "priority": "verified_design_hypothesis",
+    "qualified_for_outreach": false,
+    "comparison_checked_at": "2026-10-07T10:44:53.166731Z",
+    "comparison_evidence": "Desktop browser screenshot inspected and actual emulated mobile final screenshot from Google PageSpeed inspected. The lab report is not real-user conversion evidence. No prior Gmail match in bounded identity search. Buying interest and deliverability unknown. Outreach not requested for this three-demo session.",
+    "mobile_report_url": "https://pagespeed.web.dev/analysis/https-headlinebarbershop-wixsite-com-website/dx9rkpfqkt?form_factor=mobile"
+  },
+  "call_record": {
+    "local_timezone": "America/Toronto",
+    "suggested_pkt_window": "19:00–21:00 Mon–Sat until 31 Oct 2026",
+    "basis": "10:00–12:00 EDT is 19:00–21:00 PKT on the current date. Within listed shop hours; confirm availability. Timezone offset changes in November."
+  },
+  "sources": [
+    {
+      "url": "https://headlinebarbershop.wixsite.com/website",
+      "checked_at": "2026-10-07T10:44:53.166731Z",
+      "facts": [
+        "Headline Barber Shop",
+        "Waterloo, Ontario, Canada",
+        "Regular haircut",
+        "Premium cut with razor shave at the back",
+        "Kids haircut",
+        "Haircut and beard trim",
+        "Beard trim and line-up",
+        "Hot lather shave",
+        "Neck clean-up",
+        "Hair wash",
+        "Public phone +15198888220",
+        "Public email headline.barber.shop@gmail.com",
+        "Official site: Mon–Wed 10:00–18:30; Thu–Fri 10:00–19:00; Sat 09:00–17:00; Sun closed. Last client 20 minutes before closing; confirm directly."
+      ]
+    },
+    {
+      "url": "https://pagespeed.web.dev/analysis/https-headlinebarbershop-wixsite-com-website/dx9rkpfqkt?form_factor=mobile",
+      "checked_at": "2026-10-07T10:44:53.166731Z",
+      "facts": [
+        "Emulated mobile final screenshot inspected",
+        "One lab preview; not measured real-user conversions"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Current operation, responsiveness, deliverability and buying interest are not established by a public website",
+    "No independent certification, licensing, testimonial or conversion audit",
+    "No prices copied; confirm current prices and availability with the business",
+    "All demo illustration is original and clearly disclosed; not client project photography"
+  ],
+  "media": {
+    "type": "original_svg",
+    "creator": "Codex for Muhammad Muneeb",
+    "license": "Original artwork created for this concept; no third-party media",
+    "note": "Illustrative room palettes and cleaning surface studies are not real project outcomes"
+  }
+}

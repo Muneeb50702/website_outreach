@@ -1,0 +1,81 @@
+{
+  "slug": "ita-decor-surrey",
+  "business_name": "ITA-DECOR",
+  "industry": "Painting and decorating",
+  "location": "Surrey and South West London, United Kingdom",
+  "website": "https://ita-decor.wixsite.com/ita-decor",
+  "services": [
+    "Internal and external decorating",
+    "Lining and wallpaper hanging",
+    "Detailed preparation",
+    "Drywall and ceiling repairs",
+    "Small carpentry jobs",
+    "Wood repairs",
+    "Window refurbishment using WINDOW CARE method",
+    "Colour and design consulting"
+  ],
+  "hours": "Not verified; no hours listed on the inspected official home page.",
+  "contact": {
+    "email": "andras.ita30@gmail.com",
+    "phone": "+447902736433",
+    "source_url": "https://ita-decor.wixsite.com/ita-decor",
+    "person": "Andras Ita, manager as named on official website"
+  },
+  "primary_conversion": "phone_call",
+  "design_direction": "An interior-design editorial direction in sage and ivory, large serif type, an original isometric room with accessible Sage/Clay/Stone palette preview, three craft columns and a direct manager contact card.",
+  "opportunity": {
+    "observation": "The desktop site presents dense copy, drop shadows and small service text. The actual mobile final screenshot scales the whole desktop layout into a narrow phone screen with tiny multi-column text and navigation. The concept reflows into a readable single column with a direct phone link and service grouping. Design hypothesis only; no measured sales loss.",
+    "source_url": "https://ita-decor.wixsite.com/ita-decor",
+    "priority": "verified_design_hypothesis",
+    "qualified_for_outreach": false,
+    "comparison_checked_at": "2026-10-07T10:44:53.166731Z",
+    "comparison_evidence": "Direct desktop screenshot and Google PageSpeed emulated mobile final screenshot actually inspected. Mobile screenshot shows desktop-style grid scaled down; not a full accessibility or real-user audit. Bounded Gmail identity search found no prior match. No outreach requested for this three-demo session.",
+    "mobile_report_url": "https://pagespeed.web.dev/analysis/https-ita-decor-wixsite-com-ita-decor/2zksnkgjtv?form_factor=mobile"
+  },
+  "call_record": {
+    "local_timezone": "Europe/London",
+    "suggested_pkt_window": "13:00–16:00 weekdays through 24 Oct; 14:00–17:00 from 25 Oct 2026",
+    "basis": "Suggested local 09:00–12:00. Current BST is UTC+1; UK returns to GMT on 25 Oct 2026. Published opening hours unavailable; confirm directly."
+  },
+  "sources": [
+    {
+      "url": "https://ita-decor.wixsite.com/ita-decor",
+      "checked_at": "2026-10-07T10:44:53.166731Z",
+      "facts": [
+        "ITA-DECOR",
+        "Surrey and South West London, United Kingdom",
+        "Internal and external decorating",
+        "Lining and wallpaper hanging",
+        "Detailed preparation",
+        "Drywall and ceiling repairs",
+        "Small carpentry jobs",
+        "Wood repairs",
+        "Window refurbishment using WINDOW CARE method",
+        "Colour and design consulting",
+        "Public phone +447902736433",
+        "Public email andras.ita30@gmail.com",
+        "Not verified; no hours listed on the inspected official home page."
+      ]
+    },
+    {
+      "url": "https://pagespeed.web.dev/analysis/https-ita-decor-wixsite-com-ita-decor/2zksnkgjtv?form_factor=mobile",
+      "checked_at": "2026-10-07T10:44:53.166731Z",
+      "facts": [
+        "Emulated mobile final screenshot inspected",
+        "One lab preview; not measured real-user conversions"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Current operation, responsiveness, deliverability and buying interest are not established by a public website",
+    "No independent certification, licensing, testimonial or conversion audit",
+    "No prices copied; confirm current prices and availability with the business",
+    "All demo illustration is original and clearly disclosed; not client project photography"
+  ],
+  "media": {
+    "type": "original_svg",
+    "creator": "Codex for Muhammad Muneeb",
+    "license": "Original artwork created for this concept; no third-party media",
+    "note": "Illustrative room palettes and cleaning surface studies are not real project outcomes"
+  }
+}
