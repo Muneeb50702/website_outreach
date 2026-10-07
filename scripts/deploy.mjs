@@ -15,20 +15,19 @@ await preflight(config,cf);
 const existing=await cf.getMeta(name);
 if(existing && !validMetadata(existing,name,config.root))throw new Error('Existing metadata belongs to another domain or is invalid');
 if(existing && expired(existing))throw new Error('Expired demos require an explicit new campaign/slug; deployment does not reset expiry automatically');
-if(existing && !expired(existing) && existing.fingerprint===digest) {
-  console.log(`Already deployed: https://${existing.hostname}/ (original expiry retained).`);
-  await mkdir('reports',{recursive:true});await writeFile('reports/deployment.json',JSON.stringify(existing,null,2));
-  process.exit(0);
-}
 // Reserve only exact demo hostnames. Never attach the apex, www or a wildcard.
 const hostname=`${name}.${config.root}`;
 const zoneDns=await cf.call(`/zones/${config.zone}/dns_records?name=${encodeURIComponent(hostname)}`);
 const knownDomain=(await cf.domains()).find(d=>d.hostname===hostname);
 if(zoneDns.result?.length && (!knownDomain || knownDomain.service!==config.worker))throw new Error('Demo hostname already has DNS records; choose another slug');
-const form=new FormData();
-form.set('metadata',new Blob([JSON.stringify({main_module:'index.mjs',compatibility_date:'2026-10-01',bindings:[{type:'r2_bucket',name:'DEMOS',bucket_name:config.bucket},{type:'plain_text',name:'ROOT_DOMAIN',text:config.root}]})],{type:'application/json'}));
-form.set('index.mjs',new Blob([await readFile('cloudflare/worker/index.mjs')],{type:'application/javascript+module'}),'index.mjs');
-await cf.call(cf.accountPath(`/workers/scripts/${config.worker}`),{method:'PUT',body:form});
+// Reapply the router on an idempotent site retry, so router fixes are not skipped.
+await cf.uploadWorker(await readFile('cloudflare/worker/index.mjs'));
+if(existing && existing.fingerprint===digest) {
+  await cf.attach(hostname);
+  console.log(`Already deployed: https://${existing.hostname}/ (original expiry retained).`);
+  await mkdir('reports',{recursive:true});await writeFile('reports/deployment.json',JSON.stringify(existing,null,2));
+  process.exit(0);
+}
 const release=randomBytes(12).toString('hex');
 for(const file of await filesIn(`dist/${name}`))await cf.put(`sites/${name}/${release}/${file}`,await readFile(`dist/${name}/${file}`),mime(file));
 // New files are invisible until this single metadata write. Old release stays available on upload failure.

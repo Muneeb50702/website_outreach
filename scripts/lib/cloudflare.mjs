@@ -20,6 +20,12 @@ export class Cloudflare {
     const r=await this.call(this.objectPath(`metadata/${name}.json`),{raw:true,allowMissing:true});
     return r ? r.json() : null;
   }
+  async uploadWorker(source) {
+    const form=new FormData();
+    form.set('metadata',new Blob([JSON.stringify({main_module:'index.mjs',compatibility_date:'2026-10-01',bindings:[{type:'r2_bucket',name:'DEMOS',bucket_name:this.config.bucket},{type:'plain_text',name:'ROOT_DOMAIN',text:this.config.root}]})],{type:'application/json'}));
+    form.set('index.mjs',new Blob([source],{type:'application/javascript+module'}),'index.mjs');
+    return this.call(this.accountPath(`/workers/scripts/${this.config.worker}`),{method:'PUT',body:form});
+  }
   async put(key,body,type) { return this.call(this.objectPath(key),{method:'PUT',body,headers:{'Content-Type':type}}); }
   async putMeta(name,meta) { return this.put(`metadata/${name}.json`,JSON.stringify(meta),'application/json'); }
   async list(prefix) {

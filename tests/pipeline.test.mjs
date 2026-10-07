@@ -27,6 +27,16 @@ test('R2 object listing follows cursors instead of silently ignoring later pages
   const calls=[];const cf=new Cloudflare(cfg,async(url)=>{calls.push(url);return Response.json({success:true,result:[{key:calls.length===1?'metadata/a.json':'metadata/b.json'}],result_info:{is_truncated:calls.length===1,cursor:calls.length===1?'next-token':null}});});
   assert.equal((await cf.list('metadata/')).length,2);assert.match(calls[1],/cursor=next-token/);
 });
+test('Worker multipart upload binds the private bucket and domain without an API token binding',async()=>{
+  let sent;
+  const cf=new Cloudflare(cfg,async(url,options)=>{sent={url,...options};return Response.json({success:true,result:{}});});
+  await cf.uploadWorker('export default {fetch(){return new Response("ok")}}');
+  assert.equal(sent.method,'PUT');assert.match(sent.url,/workers\/scripts\/demo-worker$/);
+  const metadata=JSON.parse(await sent.body.get('metadata').text());
+  assert.equal(metadata.main_module,'index.mjs');assert.deepEqual(metadata.bindings.map(b=>b.name),['DEMOS','ROOT_DOMAIN']);
+  assert.equal(metadata.bindings[0].bucket_name,cfg.bucket);assert.ok(!JSON.stringify(metadata).includes(cfg.token));
+  assert.match(await sent.body.get('index.mjs').text(),/export default/);
+});
 test('Cleanup cannot delete outside a controlled demo prefix',async()=>{
   const cf=new Cloudflare(cfg,async()=>Response.json({success:true,result:[{key:'portfolio/index.html'}]}));
   await assert.rejects(cf.removePrefix(''),/Deletion must/);await assert.rejects(cf.removePrefix('sites/alpha/'),/outside prefix/);

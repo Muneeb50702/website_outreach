@@ -1,0 +1,14 @@
+{
+  "pilot_slug":"br-plumbing-austin",
+  "design":"built and visually reviewed at four widths",
+  "browser_qa":"passed",
+  "cloudflare_preflight":"account, zone, private bucket and R2 object permissions passed",
+  "deployment":"blocked before Worker or site upload",
+  "blocker":"Cloudflare DNS records read returned HTTP 403, code 10000",
+  "required_fix":"Add Zone DNS Read to the existing Cloudflare token, scoped to muhammadmuneeb.tech, then rerun Deploy reviewed concept for br-plumbing-austin",
+  "deployment_run":"https://github.com/Muneeb50702/website_outreach/actions/runs/37577299252",
+  "demo_emails_sent":0,
+  "demo_sender":"not wired up; only draft generation exists",
+  "legacy_project_outreach_daily_cap":20,
+  "daily_prospect_brief_task":"configured; future execution still requires verification"
+}
