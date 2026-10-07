@@ -1,0 +1,4 @@
+const toggle=document.querySelector('[data-menu-toggle]');
+const nav=document.querySelector('#navigation');
+function closeMenu(){toggle?.setAttribute('aria-expanded','false');toggle?.setAttribute('aria-label','Open navigation');nav?.removeAttribute('data-open');}
+if(toggle&&nav){toggle.addEventListener('click',()=>{const open=toggle.getAttribute('aria-expanded')!=='true';toggle.setAttribute('aria-expanded',String(open));toggle.setAttribute('aria-label',open?'Close navigation':'Open navigation');if(open)nav.dataset.open='true';else nav.removeAttribute('data-open');});nav.addEventListener('click',e=>{if(e.target.closest('a'))closeMenu();});document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeMenu();toggle.focus();}});matchMedia('(min-width:768px)').addEventListener('change',e=>{if(e.matches)closeMenu();});}

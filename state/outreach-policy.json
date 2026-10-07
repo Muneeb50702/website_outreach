@@ -1,0 +1,11 @@
+{
+  "timezone":"Asia/Karachi",
+  "legacy_project_outreach_daily_cap":20,
+  "shared_new_outreach_daily_cap":20,
+  "demo_outreach_enabled":false,
+  "pilot_demos_per_session":1,
+  "follow_up_days":[2,5],
+  "automatic_follow_ups_enabled":false,
+  "source_of_truth_for_sent":"Gmail Sent plus matched delivery notifications; this local ledger is supplementary",
+  "notes":"Do not raise volume or send demo outreach before a live site, Gmail reconciliation and recipient qualification. A scheduled run is not proof of an email send."
+}

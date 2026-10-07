@@ -1,0 +1,19 @@
+{
+  "slug": "br-plumbing-austin",
+  "business_name": "BR Plumbing",
+  "industry": "Plumbing",
+  "location": "Austin, Texas, and surrounding areas",
+  "website": "https://www.brplumbingatx.com/",
+  "services": ["Plumbing repairs", "Fixture and water heater installations", "Preventive maintenance", "Residential and commercial plumbing", "Emergency plumbing"],
+  "hours": "24/7 availability advertised on the business website",
+  "contact": {"email":"brplumbingatx1@gmail.com","phone":"+15126580646","source_url":"https://www.brplumbingatx.com/contact"},
+  "license": "RMP 43069 (as displayed on website; not independently checked with the licensing authority)",
+  "primary_conversion": "phone_call",
+  "design_direction": "Editorial local-service design; warm ivory, ink navy, electric lime; large typography; original sculptural pipe artwork; clear phone CTA and mobile navigation. No fabricated reviews, ratings, guarantees or service areas.",
+  "opportunity": {"observation":"The current site separates services and contact into multiple pages. Explore a concise one-page concept bringing the service overview and a repeated phone CTA together. This is a design hypothesis, not a measured finding of lost conversions or a claim that the existing site is broken.","source_url":"https://www.brplumbingatx.com/","priority":"pilot","qualified_for_outreach":false,"reason":"Public business details verified; Gmail duplicate/opt-out/bounce checks and a current visual comparison are still required before sending."},
+  "sources": [
+    {"url":"https://www.brplumbingatx.com/","checked_at":"2026-10-07T05:27:00Z","facts":["Business name: BR Plumbing", "Austin and surrounding areas", "Phone +1 512 658 0646", "24/7 availability", "Residential, commercial, gas and sewer categories", "Displayed license RMP 43069"]},
+    {"url":"https://www.brplumbingatx.com/services-offered","checked_at":"2026-10-07T05:27:00Z","facts":["Family-owned plumbing business", "Repairs, installations and maintenance", "Fixtures, water heaters and pipes"]},
+    {"url":"https://www.brplumbingatx.com/contact","checked_at":"2026-10-07T05:27:00Z","facts":["Public contact email brplumbingatx1@gmail.com", "Phone +1 512 658 0646", "24/7 availability"]}
+  ]
+}

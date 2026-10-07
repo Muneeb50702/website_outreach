@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="780" viewBox="0 0 700 780">
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#c7d4bb"/><stop offset=".6" stop-color="#b4c8af"/><stop offset="1" stop-color="#91ab93"/></linearGradient>
+<linearGradient id="chrome" x1="0" y1="0" x2="1" y2=".4"><stop stop-color="#293c39"/><stop offset=".12" stop-color="#becfc4"/><stop offset=".28" stop-color="#f7fff4"/><stop offset=".42" stop-color="#536e63"/><stop offset=".52" stop-color="#203c32"/><stop offset=".62" stop-color="#9cb3a4"/><stop offset=".75" stop-color="#e4f0e3"/><stop offset=".9" stop-color="#6d8576"/><stop offset="1" stop-color="#2e493b"/></linearGradient>
+<linearGradient id="long" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#263f33"/><stop offset=".15" stop-color="#e3eee0"/><stop offset=".28" stop-color="#f8fff1"/><stop offset=".42" stop-color="#bdcfbe"/><stop offset=".52" stop-color="#6c8c73"/><stop offset=".7" stop-color="#263d33"/><stop offset=".9" stop-color="#9db49e"/><stop offset="1" stop-color="#3b5b46"/></linearGradient>
+<linearGradient id="rim"><stop stop-color="#748975"/><stop offset=".2" stop-color="#f9fff4"/><stop offset=".5" stop-color="#759582"/><stop offset=".8" stop-color="#243e34"/><stop offset="1" stop-color="#c5d6c6"/></linearGradient>
+<linearGradient id="stand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e0e8d7"/><stop offset="1" stop-color="#a3b79d"/></linearGradient>
+<radialGradient id="opening"><stop stop-color="#0e261c"/><stop offset=".7" stop-color="#263d2d"/><stop offset="1" stop-color="#738978"/></radialGradient>
+<filter id="shadow" x="-70%" y="-100%" width="240%" height="300%"><feGaussianBlur stdDeviation="20"/></filter>
+<filter id="smallshadow" x="-30%" y="-50%" width="170%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="700" height="780" fill="url(#bg)"/>
+<path d="M0 596h700" stroke="#a5b99e" stroke-width="1"/>
+<ellipse cx="366" cy="622" rx="192" ry="35" fill="#3d6445" opacity=".32" filter="url(#shadow)"/>
+<path d="M155 570l260-67 152 81-258 72z" fill="#dce5d2"/>
+<path d="M155 570v38l154 85v-37z" fill="#9db094"/>
+<path d="M309 656l258-72v38l-258 71z" fill="#bac9ac"/>
+<path d="M168 570l247-63 137 77-243 67z" fill="url(#stand)"/>
+<ellipse cx="346" cy="560" rx="101" ry="23" fill="#3a6044" opacity=".38" filter="url(#smallshadow)"/>
+<!-- Continuous polished pipe: designed as an original material study, not a photograph. -->
+<path d="M257 288h123c54 0 87 29 87 82v70c0 46-31 72-75 72h-47c-46 0-78-27-78-68v-26" fill="none" stroke="#294b39" stroke-width="82" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M257 286h123c54 0 87 29 87 82v70c0 46-31 72-75 72h-47c-46 0-78-27-78-68v-26" fill="none" stroke="url(#chrome)" stroke-width="77" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M268 268h112c65 0 91 35 91 102" fill="none" stroke="#f4ffed" stroke-opacity=".62" stroke-width="3"/>
+<path d="M296 447c2 28 22 41 57 43h39c35 0 54-17 55-49" fill="none" stroke="#d8e8d0" stroke-opacity=".48" stroke-width="4"/>
+<!-- Wide horizontal feed and detailed machined fittings -->
+<path d="M152 286h190" stroke="url(#long)" stroke-width="79"/>
+<path d="M157 263h172" stroke="#fafff2" stroke-opacity=".8" stroke-width="3"/>
+<path d="M159 308h171" stroke="#1c3628" stroke-opacity=".45" stroke-width="3"/>
+<ellipse cx="151" cy="286" rx="28" ry="42" fill="url(#rim)"/>
+<ellipse cx="150" cy="285" rx="20" ry="32" fill="url(#opening)"/>
+<ellipse cx="147" cy="285" rx="16" ry="28" fill="#10291d"/>
+<path d="M231 242c15-8 32-3 38 10v69c-6 10-23 16-38 8z" fill="url(#rim)"/>
+<path d="M239 244v80m8-79v80m10-78v75" stroke="#23432f" stroke-opacity=".35" stroke-width="2"/>
+<path d="M394 327c27-13 61-11 87 3v21c-28-13-61-14-87-2z" fill="url(#rim)"/>
+<path d="M396 334c25-11 59-9 81 3m-82 6c23-9 59-7 83 3" stroke="#244930" stroke-opacity=".4" stroke-width="2" fill="none"/>
+<path d="M231 393c17-10 40-10 72-1v25c-30-8-54-7-72 1z" fill="url(#rim)"/>
+<ellipse cx="267" cy="389" rx="39" ry="14" fill="url(#rim)"/>
+<ellipse cx="267" cy="389" rx="30" ry="9" fill="url(#opening)"/>
+<!-- Sculptural shut-off valve -->
+<path d="M372 294v-45" stroke="url(#chrome)" stroke-width="22"/>
+<ellipse cx="372" cy="248" rx="25" ry="10" fill="url(#rim)"/>
+<path d="M349 235h84" stroke="#1b3528" stroke-width="19" stroke-linecap="round"/>
+<path d="M350 231h78" stroke="#e5eeda" stroke-width="4" stroke-linecap="round"/>
+<path d="M363 235v-20" stroke="url(#rim)" stroke-width="9"/>
+<ellipse cx="364" cy="211" rx="10" ry="5" fill="#e7f0dc"/>
+<!-- Subtle engineering annotations -->
+<path d="M127 345v74h70m325-166h38v195h-23" fill="none" stroke="#658264" stroke-width=".8"/>
+<circle cx="197" cy="419" r="3" fill="#365b3d"/><circle cx="522" cy="253" r="3" fill="#365b3d"/>
+<text x="139" y="392" fill="#36573d" font-family="Arial,sans-serif" font-size="9" letter-spacing="2">FORM.</text>
+<text x="582" y="362" fill="#36573d" font-family="Arial,sans-serif" font-size="9" letter-spacing="2" transform="rotate(90 582 362)">FUNCTION.</text>
+<path d="M110 702h30m-15-15v30m465-15h30m-15-15v30" stroke="#617e5f" stroke-width=".8"/>
+</svg>

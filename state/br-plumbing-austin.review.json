@@ -1,0 +1,17 @@
+{
+  "approved": false,
+  "fingerprint": "74898fb0b0caa5a1c868e8aa7152ca5d1e31e4a9decffd386222cea49a968572",
+  "reviewer": null,
+  "reviewed_at": null,
+  "scores": {
+    "visual": 0,
+    "mobile": 0,
+    "business_relevance": 0,
+    "typography": 0,
+    "conversion": 0
+  },
+  "evidence": [],
+  "limitations": [
+    "Awaiting actual screenshot review."
+  ]
+}

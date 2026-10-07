@@ -1,0 +1,31 @@
+name: Expire demo websites
+on:
+  schedule:
+    - cron: '15 20 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: cloudflare-demo-lifecycle
+  cancel-in-progress: false
+jobs:
+  cleanup:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_ZONE_ID: ${{ vars.CLOUDFLARE_ZONE_ID }}
+      ROOT_DOMAIN: ${{ vars.ROOT_DOMAIN }}
+      R2_BUCKET_NAME: ${{ vars.R2_BUCKET_NAME }}
+      CLOUDFLARE_WORKER_NAME: ${{ vars.CLOUDFLARE_WORKER_NAME }}
+      DEMO_TTL_DAYS: ${{ vars.DEMO_TTL_DAYS }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/cleanup.mjs --apply

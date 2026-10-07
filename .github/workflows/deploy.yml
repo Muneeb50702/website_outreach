@@ -1,0 +1,71 @@
+name: Deploy reviewed concept
+on:
+  push:
+    branches: [main]
+    paths: ['state/deploy-request.json']
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: Reviewed lead slug
+        required: true
+        default: br-plumbing-austin
+permissions:
+  contents: read
+concurrency:
+  group: cloudflare-demo-lifecycle
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_ZONE_ID: ${{ vars.CLOUDFLARE_ZONE_ID }}
+      ROOT_DOMAIN: ${{ vars.ROOT_DOMAIN }}
+      R2_BUCKET_NAME: ${{ vars.R2_BUCKET_NAME }}
+      CLOUDFLARE_WORKER_NAME: ${{ vars.CLOUDFLARE_WORKER_NAME }}
+      DEMO_TTL_DAYS: ${{ vars.DEMO_TTL_DAYS }}
+      INPUT_SLUG: ${{ inputs.slug }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Resolve deployment request
+        id: request
+        run: |
+          node --input-type=module <<'NODE'
+          import {readFile,appendFile} from 'node:fs/promises';
+          import {slug} from './scripts/lib/core.mjs';
+          const request = process.env.INPUT_SLUG || JSON.parse(await readFile('state/deploy-request.json','utf8')).slug;
+          await appendFile(process.env.GITHUB_OUTPUT, `slug=${slug(request)}\n`);
+          NODE
+      - run: npm test
+      - run: npm run build
+      - run: npm install --no-save --ignore-scripts playwright@1.62.1
+      - run: npx playwright install --with-deps chromium
+      - name: Browser verification
+        env:
+          DEMO_SLUG: ${{ steps.request.outputs.slug }}
+        run: node scripts/browser-qa.mjs "$DEMO_SLUG"
+      - name: Verify configured Cloudflare credentials
+        run: npm run check-config
+      - name: Deploy reviewed demo
+        env:
+          DEMO_SLUG: ${{ steps.request.outputs.slug }}
+        run: node scripts/deploy.mjs "$DEMO_SLUG"
+      - name: Verify HTTPS and prepare outreach draft
+        env:
+          DEMO_SLUG: ${{ steps.request.outputs.slug }}
+        run: node scripts/draft.mjs "$DEMO_SLUG"
+      - name: Save deployment evidence and draft
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: deployment-evidence
+          path: reports/
+          retention-days: 14

@@ -1,0 +1,42 @@
+name: Demo lifecycle
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: Demo slug
+        required: true
+      action:
+        description: Preserve an interested prospect's concept or expire a demo
+        type: choice
+        required: true
+        options: [interested, expire]
+permissions:
+  contents: read
+concurrency:
+  group: cloudflare-demo-lifecycle
+  cancel-in-progress: false
+jobs:
+  lifecycle:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_ZONE_ID: ${{ vars.CLOUDFLARE_ZONE_ID }}
+      ROOT_DOMAIN: ${{ vars.ROOT_DOMAIN }}
+      R2_BUCKET_NAME: ${{ vars.R2_BUCKET_NAME }}
+      CLOUDFLARE_WORKER_NAME: ${{ vars.CLOUDFLARE_WORKER_NAME }}
+      DEMO_TTL_DAYS: ${{ vars.DEMO_TTL_DAYS }}
+      DEMO_SLUG: ${{ inputs.slug }}
+      LIFECYCLE_ACTION: ${{ inputs.action }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/lifecycle.mjs "$DEMO_SLUG" "$LIFECYCLE_ACTION"
+      - if: inputs.action == 'expire'
+        run: node scripts/cleanup.mjs --apply
