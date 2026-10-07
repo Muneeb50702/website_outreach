@@ -4,9 +4,21 @@
   "industry": "Hardscaping",
   "location": "Portland, Oregon, USA",
   "website": "https://www.rocksolidpnw.com/",
-  "services": ["Stone patios", "Walkways", "Retaining walls", "Steps", "Gravel spreading", "Raised beds"],
+  "services": [
+    "Stone patios",
+    "Walkways",
+    "Retaining walls",
+    "Steps",
+    "Gravel spreading",
+    "Raised beds"
+  ],
   "hours": "By appointment, as listed on the official contact page",
-  "contact": {"email": "rocksolidconsultor@gmail.com", "phone": "+15036865760", "source_url": "https://www.rocksolidpnw.com/contact-5", "person": "Business team; individual contact name not verified"},
+  "contact": {
+    "email": "rocksolidconsultor@gmail.com",
+    "phone": "+15036865760",
+    "source_url": "https://www.rocksolidpnw.com/contact-5",
+    "person": "Business team; individual contact name not verified"
+  },
   "primary_conversion": "phone_call",
   "design_direction": "Architectural editorial layout in warm limestone, pine and terracotta. Original isometric hardscape drawing, generous serif headlines, numbered service index, persistent verified phone contact. No invented project photographs or testimonials.",
   "opportunity": {
@@ -14,15 +26,60 @@
     "source_url": "https://www.rocksolidpnw.com/",
     "priority": "qualified_visual_opportunity",
     "qualified_for_outreach": true,
-    "comparison_checked_at": "2026-10-07T09:42:00Z",
-    "comparison_evidence": "Direct desktop browser screenshot and accessible page content inspected. Responsive/mobile source inspection is recorded separately before outreach; no claim that the existing mobile site is broken.",
-    "reason": "Public business-owned email and international phone match the home and contact pages. A bounded Gmail identity/domain search found no prior correspondence. Genuine business lead with a concrete contact-hierarchy proposal, not a claimed buyer."
+    "comparison_checked_at": "2026-10-07T09:55:00Z",
+    "comparison_evidence": "Direct desktop browser screenshot plus the mobile final screenshot in a current PageSpeed Insights report inspected. Both initial views lack a visible direct phone action. The current site works; the proposed improvement is clearer contact hierarchy, not an assertion of measured sales loss.",
+    "reason": "Public business-owned email and international phone match the home and contact pages. A bounded Gmail identity/domain search found no prior correspondence. Genuine business lead with a concrete contact-hierarchy proposal, not a claimed buyer.",
+    "mobile_report_url": "https://pagespeed.web.dev/analysis/https-www-rocksolidpnw-com/uns5v1yura?form_factor=mobile"
   },
   "sources": [
-    {"url": "https://www.rocksolidpnw.com/", "checked_at": "2026-10-07T09:42:00Z", "facts": ["Business name Rock Solid Consulting LLC", "Hardscaping in Portland, Oregon", "Stone patios, walkways, walls, steps, gravel spreading and raised beds", "Public phone 503-686-5760", "Public email rocksolidconsultor@gmail.com", "Projects link and Instagram/YouTube links", "Footer displays 2035"]},
-    {"url": "https://www.rocksolidpnw.com/contact-5", "checked_at": "2026-10-07T09:45:00Z", "facts": ["Phone 503-686-5760", "Email rocksolidconsultor@gmail.com", "Portland, OR, USA", "Hours by appointment"]}
+    {
+      "url": "https://www.rocksolidpnw.com/",
+      "checked_at": "2026-10-07T09:42:00Z",
+      "facts": [
+        "Business name Rock Solid Consulting LLC",
+        "Hardscaping in Portland, Oregon",
+        "Stone patios, walkways, walls, steps, gravel spreading and raised beds",
+        "Public phone 503-686-5760",
+        "Public email rocksolidconsultor@gmail.com",
+        "Projects link and Instagram/YouTube links",
+        "Footer displays 2035"
+      ]
+    },
+    {
+      "url": "https://www.rocksolidpnw.com/contact-5",
+      "checked_at": "2026-10-07T09:45:00Z",
+      "facts": [
+        "Phone 503-686-5760",
+        "Email rocksolidconsultor@gmail.com",
+        "Portland, OR, USA",
+        "Hours by appointment"
+      ]
+    },
+    {
+      "url": "https://pagespeed.web.dev/analysis/https-www-rocksolidpnw-com/uns5v1yura?form_factor=mobile",
+      "checked_at": "2026-10-07T09:55:00Z",
+      "facts": [
+        "Emulated mobile screenshot inspected",
+        "Initial mobile viewport shows brand/navigation and image/gallery content with no visible direct phone action",
+        "Single laboratory run; not real-user performance or measured conversion evidence"
+      ]
+    }
   ],
-  "uncertainties": ["An individual owner/contact name was not verified", "No independent license, review or conversion audit", "Published phone/email verified, but deliverability and buying interest are unknown", "No client photography used; illustration is original concept art"],
-  "call_record": {"local_timezone": "America/Los_Angeles", "suggested_pkt_window": "21:00–23:00 on weekdays through 31 October 2026", "basis": "09:00–11:00 Portland time during PDT; suggested window only, actual hours by appointment"},
-  "assets": [{"path": "assets/hardscape.svg", "license": "Original SVG created for this independent concept by Codex; not a photograph of the business's work"}]
+  "uncertainties": [
+    "An individual owner/contact name was not verified",
+    "No independent license, review or conversion audit",
+    "Published phone/email verified, but deliverability and buying interest are unknown",
+    "No client photography used; illustration is original concept art"
+  ],
+  "call_record": {
+    "local_timezone": "America/Los_Angeles",
+    "suggested_pkt_window": "21:00–23:00 on weekdays through 31 October 2026",
+    "basis": "09:00–11:00 Portland time during PDT; suggested window only, actual hours by appointment"
+  },
+  "assets": [
+    {
+      "path": "assets/hardscape.svg",
+      "license": "Original SVG created for this independent concept by Codex; not a photograph of the business's work"
+    }
+  ]
 }

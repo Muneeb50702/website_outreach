@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "requested_at": "2026-10-07T09:58:21.780Z",
+  "request": "ok make two more websites and live them and store in google sheets and outreach them afterwords and find some genuine leads from abroad",
+  "authorized_demos": [
+    "rock-solid-portland",
+    "da-silva-manchester"
+  ],
+  "authorized_actions": [
+    "Build two overseas business website concepts",
+    "Publish two exact demo hostnames under the existing deployment architecture",
+    "Record both in the existing Google Sheet",
+    "Send one personalized email to each public business contact after live verification"
+  ],
+  "shared_new_outreach_daily_cap": 20,
+  "timezone": "Asia/Karachi",
+  "scope_note": "Explicit user authorization for this session's two additional demos and outreach. Global pilot defaults and paused scheduled tasks remain unchanged."
+}

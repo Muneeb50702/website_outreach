@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "recipient": "brplumbingatx1@gmail.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T09:07:57.000Z",
+    "gmail_message_id": "1a1159e98a146c23",
+    "gmail_thread_id": "1a1159e98a146c23",
+    "subject": "I built a website concept for BR Plumbing",
+    "source": "Gmail Sent reconciliation",
+    "slug": "br-plumbing-austin"
+  },
+  {
+    "recipient": "sales@braingenz.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:56:18.000Z",
+    "gmail_message_id": "1a114b834dbc60ef",
+    "gmail_thread_id": "1a114b834dbc60ef",
+    "subject": "Agentic AI engineering support for BrainGenz",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  },
+  {
+    "recipient": "contact@hildes.io",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:56:17.000Z",
+    "gmail_message_id": "1a114b83116f0641",
+    "gmail_thread_id": "1a114b83116f0641",
+    "subject": "AI and SaaS engineering collaboration with HilDes",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  },
+  {
+    "recipient": "sales@synwavesolutions.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:56:17.000Z",
+    "gmail_message_id": "1a114b82e63628ea",
+    "gmail_thread_id": "1a114b82e63628ea",
+    "subject": "Generative AI and backend capacity for Synwave Solutions",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  },
+  {
+    "recipient": "sales@symteratech.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:56:16.000Z",
+    "gmail_message_id": "1a114b82a39131a3",
+    "gmail_thread_id": "1a114b82a39131a3",
+    "subject": "Custom AI application delivery support",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  },
+  {
+    "recipient": "sales@aiinfox.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:56:15.000Z",
+    "gmail_message_id": "1a114b826fe3d5dc",
+    "gmail_thread_id": "1a114b826fe3d5dc",
+    "subject": "RAG and voice-agent engineering support for Aiinfox",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  },
+  {
+    "recipient": "sales@greatodeal.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:07:35.000Z",
+    "gmail_message_id": "1a1148b999cf752a",
+    "gmail_thread_id": "1a1148b999cf752a",
+    "subject": "Agentic AI and fintech automation collaboration",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  },
+  {
+    "recipient": "info@velnixsolutions.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:07:34.000Z",
+    "gmail_message_id": "1a1148b95f48399c",
+    "gmail_thread_id": "1a1148b95f48399c",
+    "subject": "Agentic AI backend support for Velnix Solutions",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  },
+  {
+    "recipient": "info@perfectcraft.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:07:33.000Z",
+    "gmail_message_id": "1a1148b90b39a419",
+    "gmail_thread_id": "1a1148b90b39a419",
+    "subject": "Agent and workflow automation capacity for AI SystemCraft",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  },
+  {
+    "recipient": "info@mezovate.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:07:32.000Z",
+    "gmail_message_id": "1a1148b8f720a921",
+    "gmail_thread_id": "1a1148b8f720a921",
+    "subject": "Overflow AI engineering support for Mezovate",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  },
+  {
+    "recipient": "contact@scnsoft.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T04:07:31.000Z",
+    "gmail_message_id": "1a1148b8ae6ef089",
+    "gmail_thread_id": "1a1148b8ae6ef089",
+    "subject": "AI voice and agent engineering support for ScienceSoft",
+    "source": "Gmail Sent reconciliation",
+    "campaign": "legacy_project_outreach"
+  }
+]
