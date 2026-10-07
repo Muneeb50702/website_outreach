@@ -2,7 +2,9 @@
 
 ## 1. Research and qualify
 
-Start with one strong business. Use current public searches and pages owned by the business. Confirm its actual website rather than treating an absent directory link as proof it has none. Record supported services, location, hours and contact information. Inspect its current site on a phone and desktop. Identify a concrete improvement you can demonstrate, without invented performance statistics.
+Start with one strong business. The existing ChatGPT hourly outreach/reply task prepares at most one public-source demo brief each Pakistan calendar day after 08:00, writing to `intake/` and recording actual completion in `state/research-history.json`. It does not launch site generation. Check the recorded state rather than assuming a scheduled invocation succeeded.
+
+Use current public searches and pages owned by the business. Confirm its actual website rather than treating an absent directory link as proof it has none. Record supported services, location, hours and contact information. Inspect its current site on a phone and desktop. Identify a concrete improvement you can demonstrate, without invented performance statistics.
 
 The BR Plumbing pilot has verified service/contact facts but is deliberately not marked sales-qualified until current visual comparison and Gmail checks are complete.
 
@@ -76,4 +78,4 @@ At the expiry instant the router returns 410 while the domain still exists. Afte
 
 ## Current boundaries
 
-Deterministic CI/deployment/lifecycle can run unattended. Automated lead discovery, generation-session initiation, Gmail sending, reply-to-CRM synchronization and scheduled follow-ups are not wired up by this first implementation. Do not describe the repository as a fully autonomous end-to-end sales machine until those integrations have been exercised and their outcomes verified.
+Deterministic CI/deployment/lifecycle can run unattended. Daily brief research is configured in the existing ChatGPT task but still requires verification of its actual execution. Automatic generation-session initiation, Gmail demo sending, reply-to-CRM synchronization and scheduled follow-ups are not wired up by this first implementation. Do not describe the repository as a fully autonomous end-to-end sales machine until those integrations have been exercised and their outcomes verified.

@@ -1,6 +1,11 @@
 import {readdir,readFile} from 'node:fs/promises';
-import {loadBrief,filesIn} from './lib/core.mjs';
+import {loadBrief,filesIn,validateBrief} from './lib/core.mjs';
 export async function validateSites() {
+  const intake=(await readdir('intake')).filter(f=>f.endsWith('.json'));
+  for(const file of intake) {
+    const brief=validateBrief(JSON.parse(await readFile(`intake/${file}`,'utf8')));
+    if(`${brief.slug}.json`!==file)throw new Error('Intake filename must match brief slug');
+  }
   const names=(await readdir('leads')).filter(f=>f.endsWith('.json')).map(f=>f.slice(0,-5));
   for(const name of names) {
     await loadBrief(name);
@@ -23,7 +28,7 @@ export async function validateSites() {
       }
     }
   }
-  console.log(`Validated ${names.length} research brief(s) and site asset tree(s).`);
+  console.log(`Validated ${names.length} built concept(s) and ${intake.length} intake brief(s).`);
   return names;
 }
 if(import.meta.url===`file://${process.argv[1]}`)await validateSites();

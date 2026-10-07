@@ -8,7 +8,7 @@ Demo-first client acquisition for Muhammad Muneeb: research a real business, des
 
 `sites/br-plumbing-austin/` is an original, responsive concept for a real Austin plumbing business. Its public contact details and services are documented in `leads/br-plumbing-austin.json`. This is an independent, uncommissioned concept. No customer forms, invented reviews, stock claims of business results, or fake booking flow.
 
-The pilot remains in design review until `state/br-plumbing-austin.review.json` contains an approved review of the exact current source fingerprint. A deployment request cannot bypass this gate. Screenshots are saved as workflow artifacts.
+The pilot passed browser QA at four widths and was visually reviewed before deployment was requested. `state/br-plumbing-austin.review.json` records the review and exact source fingerprint. A deployment request cannot bypass this gate. Screenshots are saved as workflow artifacts.
 
 ## Run locally
 
@@ -57,6 +57,8 @@ The portfolio apex, `www` and reserved hostnames cannot be selected. No wildcard
 
 Implemented: source-backed brief validation, original pilot site, static build, browser QA, manual visual-review gate, Cloudflare preflight/deployment, immutable release switching, live HTTPS check, seven-day expiry, interested-prospect preservation, draft generation and suppression/duplicate preparation checks.
 
-Pending integrations: automated lead-source provider, Gmail sending/reconciliation adapter, reply-driven CRM updates and follow-up dispatch. No email is sent by these workflows. The existing project-outreach automation was separately reduced to at most 20 emails per Pakistan calendar day; this repository must not silently increase that volume.
+The existing hourly ChatGPT project-outreach/reply task is capped at 20 emails per Pakistan calendar day and also prepares at most one source-backed demo prospect brief per day in `intake/`. It uses connected public-web research and GitHub, with actual completion recorded in `state/research-history.json`. A scheduled task is not proof that a brief was created, and it does not launch a Codex generation session.
+
+Pending integrations: automatic initiation of subscribed Codex generation sessions, Gmail demo sending/reconciliation adapter, reply-driven CRM updates and follow-up dispatch. No email is sent by these workflows; this repository must not silently increase the shared outreach ceiling.
 
 Read [the operating guide](docs/operating-guide.md) and [Codex instructions](AGENTS.md) before adding prospects or approving outreach.
