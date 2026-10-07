@@ -39,3 +39,16 @@ The draft generator never sends mail. Read the deployment artifact, not a predic
 Preserve existing outreach authorization within its exact bounds; don't invent a separate API sender or raise quotas. Update `state/outreach-ledger.json` only with verified message IDs and timestamps; local records supplement Gmail and never replace it. Suppress bounced/opted-out recipients. A draft, scheduled run or missing bounce is not confirmed delivery.
 
 Reply integration remains a separate step: preserve interested concepts and notify the user; no price negotiations, contracts or substantive replies without authorization. Day-2/day-5 follow-ups are configuration only until a sending integration is implemented and verified.
+
+
+## Client website tracker
+
+The user's website-demo client record is **Website Demo Client Tracker**:
+https://docs.google.com/spreadsheets/d/1gvdCQSVA7uM31zCJLyEtIhaHp33MePNp0Vdwoj4ImMA/edit?usp=drivesdk
+Spreadsheet ID: `1gvdCQSVA7uM31zCJLyEtIhaHp33MePNp0Vdwoj4ImMA`; tab: `Clients`; native table: `WebsiteDemoClients`.
+
+After building a matching site, create or update its row using the `Lead ID` column (X) equal to the repository slug. Record every built client website, including expired or preserved demos; pending research in intake is not a built website. Keep the same spreadsheet and retain previous client rows. Add the demo URL only from verified deployment records, with honest status and expiry; never invent a deployed URL.
+
+Read live spreadsheet metadata, the header and relevant bounded rows before edits. Populate business/contact, verified international phone and public email, location, local IANA timezone, a suggested Pakistan-time call window based on the current date and daylight saving, demo/deployment timestamps and sources, and Gmail-backed email/reply status. Store dates as numeric spreadsheet dates displayed in Asia/Karachi. Only mark email Sent when Gmail supplies a verified message ID and sent timestamp; Sent does not prove delivery. A phone number is not proof of WhatsApp availability.
+
+Preserve the user's Call outcome, Last call at (PKT), Follow-up date (PKT) and Call notes (P:S), and any manual WhatsApp records. Do not mark a call or message completed without evidence, overwrite manual notes, or reset existing statuses while synchronizing. Upsert by Lead ID to avoid duplicates, extend the native table range for appended rows, preserve dropdowns/date formats, and verify the changed row by readback. This tracker does not authorize new outreach, calls, quota changes or schedule changes.
