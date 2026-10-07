@@ -1,0 +1,74 @@
+{
+  "slug": "refreshed-paws-nova-scotia",
+  "business_name": "Refreshed Paws Grooming Services",
+  "industry": "Dog grooming",
+  "location": "Shubenacadie, Nova Scotia, Canada",
+  "website": "https://amymoxsom1984.wixsite.com/refreshedpawsgroom-2",
+  "services": [
+    "Full groom",
+    "Bathing",
+    "Nail trim",
+    "Nail trim and ear cleaning"
+  ],
+  "contact": {
+    "email": "amoxsom@gmail.com",
+    "phone": "+19022362090",
+    "person": "Amy Moxsom, owner/operator as named on official site",
+    "source_url": "https://amymoxsom1984.wixsite.com/refreshedpawsgroom-2"
+  },
+  "design_direction": "Friendly cream, lavender and sage, original illustrated dog and bubbles, soft arched hero, interactive service discussion guide, a personal owner introduction and a clear direct-call card.",
+  "primary_conversion": "phone_call",
+  "hours": "Not confirmed; current hours should be checked directly. No hours displayed in concept.",
+  "opportunity": {
+    "observation": "The existing responsive site provides a public email, phone and booking navigation. Its first screen repeats the long business name and uses dense small contact copy below a tall black hero. The concept gives grooming choices and the named owner a clearer hierarchy with a prominent call link. This is a design hypothesis; no claim that booking is broken or sales are lost.",
+    "source_url": "https://amymoxsom1984.wixsite.com/refreshedpawsgroom-2",
+    "priority": "verified_design_hypothesis",
+    "qualified_for_outreach": false,
+    "comparison_checked_at": "2026-10-07T11:23:23.476086Z",
+    "comparison_evidence": "Actual desktop screenshots and emulated mobile final screenshots inspected. Bounded Gmail identity search found no matches. This publishing request does not authorize new email sends.",
+    "mobile_report_url": "https://pagespeed.web.dev/analysis/https-amymoxsom1984-wixsite-com-refreshedpawsgroom-2/xttzopxff1?form_factor=mobile"
+  },
+  "call_record": {
+    "local_timezone": "America/Halifax",
+    "suggested_pkt_window": "18:00–21:00 weekdays through 31 Oct 2026",
+    "basis": "Suggested local 10:00–13:00 ADT UTC−3. Actual business hours unknown; confirm directly."
+  },
+  "sources": [
+    {
+      "url": "https://amymoxsom1984.wixsite.com/refreshedpawsgroom-2",
+      "checked_at": "2026-10-07T11:23:23.476086Z",
+      "facts": [
+        "Refreshed Paws Grooming Services",
+        "Shubenacadie, Nova Scotia, Canada",
+        "Full groom",
+        "Bathing",
+        "Nail trim",
+        "Nail trim and ear cleaning",
+        "Public email amoxsom@gmail.com",
+        "Public phone +19022362090",
+        "Amy Moxsom, owner/operator as named on official site",
+        "2708 Highway 2, Shubenacadie, NS B0N 2H0, Canada",
+        "Customer parking",
+        "Published principles emphasize welfare, kindness and professional care"
+      ]
+    },
+    {
+      "url": "https://pagespeed.web.dev/analysis/https-amymoxsom1984-wixsite-com-refreshedpawsgroom-2/xttzopxff1?form_factor=mobile",
+      "checked_at": "2026-10-07T11:23:23.476086Z",
+      "facts": [
+        "Emulated mobile final screenshot inspected; not a measured conversion or real-user audit"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Public website does not prove current operation, buying interest, responsiveness or email deliverability",
+    "Current prices, availability and hours must be confirmed directly",
+    "No testimonials, credentials or measured conversion outcomes asserted",
+    "Original illustrative artwork is not business product photography"
+  ],
+  "media": {
+    "type": "original_svg",
+    "creator": "Codex for Muhammad Muneeb",
+    "license": "Original artwork created for this concept; no third-party media"
+  }
+}

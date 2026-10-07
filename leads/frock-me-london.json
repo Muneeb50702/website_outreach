@@ -1,0 +1,71 @@
+{
+  "slug": "frock-me-london",
+  "business_name": "Frock Me Handmade",
+  "industry": "Bespoke clothing and textile studio",
+  "location": "London, United Kingdom",
+  "website": "https://rosieatkinson718.wixsite.com/frockmehandmade",
+  "services": [
+    "Bespoke apparel and tailoring",
+    "Hand knitting",
+    "Bespoke cross stitch",
+    "Upholstery and refurbishment considered individually"
+  ],
+  "contact": {
+    "email": "rosieatkinson718@gmail.com",
+    "phone": "+447752466074",
+    "person": "Studio contact; individual name not confirmed on official page",
+    "source_url": "https://rosieatkinson718.wixsite.com/frockmehandmade"
+  },
+  "design_direction": "Charcoal, warm paper, orange and acid lime; an editorial garment studio with original interactive tailoring, knitwear and embroidery pattern studies, a numbered craft index and direct project enquiry.",
+  "primary_conversion": "phone_call",
+  "hours": "Not confirmed; current hours should be checked directly. No hours displayed in concept.",
+  "opportunity": {
+    "observation": "Existing desktop first screen is dominated by a large graphic, with the service description below the first fold and contact far down a very long portfolio. Actual mobile preview has a large blank gap above the graphic and no clear first-screen project enquiry. Existing responsive navigation and portfolio are functional; concept proposes a focused craft overview and first-screen contact, not a measured conversion fix.",
+    "source_url": "https://rosieatkinson718.wixsite.com/frockmehandmade",
+    "priority": "verified_design_hypothesis",
+    "qualified_for_outreach": false,
+    "comparison_checked_at": "2026-10-07T11:23:23.476086Z",
+    "comparison_evidence": "Actual desktop screenshots and emulated mobile final screenshots inspected. Bounded Gmail identity search found no matches. This publishing request does not authorize new email sends.",
+    "mobile_report_url": "https://pagespeed.web.dev/analysis/https-rosieatkinson718-wixsite-com-frockmehandmade/u11snb1flx?form_factor=mobile"
+  },
+  "call_record": {
+    "local_timezone": "Europe/London",
+    "suggested_pkt_window": "13:00–16:00 weekdays through 24 Oct; 14:00–17:00 from 25 Oct 2026",
+    "basis": "Suggested local 09:00–12:00, BST UTC+1 now and GMT from 25 Oct. Actual business hours not confirmed."
+  },
+  "sources": [
+    {
+      "url": "https://rosieatkinson718.wixsite.com/frockmehandmade",
+      "checked_at": "2026-10-07T11:23:23.476086Z",
+      "facts": [
+        "Frock Me Handmade",
+        "London, United Kingdom",
+        "Bespoke apparel and tailoring",
+        "Hand knitting",
+        "Bespoke cross stitch",
+        "Upholstery and refurbishment considered individually",
+        "Public email rosieatkinson718@gmail.com",
+        "Public phone +447752466074",
+        "Studio contact; individual name not confirmed on official page"
+      ]
+    },
+    {
+      "url": "https://pagespeed.web.dev/analysis/https-rosieatkinson718-wixsite-com-frockmehandmade/u11snb1flx?form_factor=mobile",
+      "checked_at": "2026-10-07T11:23:23.476086Z",
+      "facts": [
+        "Emulated mobile final screenshot inspected; not a measured conversion or real-user audit"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Public website does not prove current operation, buying interest, responsiveness or email deliverability",
+    "Current prices, availability and hours must be confirmed directly",
+    "No testimonials, credentials or measured conversion outcomes asserted",
+    "Original illustrative artwork is not business product photography"
+  ],
+  "media": {
+    "type": "original_svg",
+    "creator": "Codex for Muhammad Muneeb",
+    "license": "Original artwork created for this concept; no third-party media"
+  }
+}

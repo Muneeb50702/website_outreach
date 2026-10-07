@@ -1,0 +1,97 @@
+{
+  "slug": "glen-iris-bakery-melbourne",
+  "business_name": "Glen Iris Bakery Cafe",
+  "industry": "Bakery and cafe",
+  "location": "Glen Iris, Melbourne, Victoria, Australia",
+  "website": "https://glenirisbakerycafe.wixsite.com/mysite",
+  "services": [
+    "Pies, pasties and sausage rolls",
+    "Sandwich bar, wraps and rice paper rolls",
+    "Sweets and treats",
+    "Birthday cakes and selection boxes"
+  ],
+  "contact": {
+    "email": "glenirisbakerycafe@gmail.com",
+    "phone": "+61493378570",
+    "person": "Bakery contact; recipient individual not confirmed",
+    "source_url": "https://glenirisbakerycafe.wixsite.com/mysite"
+  },
+  "design_direction": "Terracotta and butter cream, large warm serif lettering, original food still life, gingham community card and interactive savoury/sandwich/sweet menu overview with direct phone contact.",
+  "primary_conversion": "phone_call",
+  "hours": "Not confirmed; current hours should be checked directly. No hours displayed in concept.",
+  "opportunity": {
+    "observation": "The existing desktop and actual mobile site are responsive and have delivery navigation. Mobile header contact text is tiny, phone is presented as text and the first See Menu link on the home page returns to the same page; later menu links work. A focused category menu and direct phone action could make browsing easier. No measured conversion claim.",
+    "source_url": "https://glenirisbakerycafe.wixsite.com/mysite",
+    "priority": "verified_design_hypothesis",
+    "qualified_for_outreach": false,
+    "comparison_checked_at": "2026-10-07T11:23:23.476086Z",
+    "comparison_evidence": "Actual desktop screenshots and emulated mobile final screenshots inspected. Bounded Gmail identity search found no matches. This publishing request does not authorize new email sends.",
+    "mobile_report_url": "https://pagespeed.web.dev/analysis/https-glenirisbakerycafe-wixsite-com-mysite/xbd011b4kl?form_factor=mobile"
+  },
+  "call_record": {
+    "local_timezone": "Australia/Melbourne",
+    "suggested_pkt_window": "05:00–07:00 weekdays through 31 Oct 2026",
+    "basis": "Suggested local 11:00–13:00 AEDT UTC+11. Official hours contain an overlapping Friday range and other listings differ; hours are omitted in demo and should be confirmed."
+  },
+  "sources": [
+    {
+      "url": "https://glenirisbakerycafe.wixsite.com/mysite",
+      "checked_at": "2026-10-07T11:23:23.476086Z",
+      "facts": [
+        "Glen Iris Bakery Cafe",
+        "Glen Iris, Melbourne, Victoria, Australia",
+        "Pies, pasties and sausage rolls",
+        "Sandwich bar, wraps and rice paper rolls",
+        "Sweets and treats",
+        "Birthday cakes and selection boxes",
+        "Public email glenirisbakerycafe@gmail.com",
+        "Public phone +61493378570",
+        "Bakery contact; recipient individual not confirmed"
+      ]
+    },
+    {
+      "url": "https://pagespeed.web.dev/analysis/https-glenirisbakerycafe-wixsite-com-mysite/xbd011b4kl?form_factor=mobile",
+      "checked_at": "2026-10-07T11:23:23.476086Z",
+      "facts": [
+        "Emulated mobile final screenshot inspected; not a measured conversion or real-user audit"
+      ]
+    },
+    {
+      "url": "https://glenirisbakerycafe.wixsite.com/mysite/menu",
+      "checked_at": "2026-10-07T11:23:23.476086Z",
+      "facts": [
+        "Shepherd’s pie, steak and pepper pie, bread varieties"
+      ]
+    },
+    {
+      "url": "https://glenirisbakerycafe.wixsite.com/mysite/contact",
+      "checked_at": "2026-10-07T11:23:23.476086Z",
+      "facts": [
+        "1618 High St, Glen Iris VIC 3146, Australia",
+        "Public phone and email match home page",
+        "Published hours have overlapping Friday ranges; omitted from demo"
+      ]
+    },
+    {
+      "url": "https://glenirisbakerycafe.wixsite.com/mysite/about",
+      "checked_at": "2026-10-07T11:23:23.476086Z",
+      "facts": [
+        "Small family bakery",
+        "Food handmade on site",
+        "Open kitchen",
+        "Roast pork bánh mì"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Public website does not prove current operation, buying interest, responsiveness or email deliverability",
+    "Current prices, availability and hours must be confirmed directly",
+    "No testimonials, credentials or measured conversion outcomes asserted",
+    "Original illustrative artwork is not business product photography"
+  ],
+  "media": {
+    "type": "original_svg",
+    "creator": "Codex for Muhammad Muneeb",
+    "license": "Original artwork created for this concept; no third-party media"
+  }
+}
