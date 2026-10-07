@@ -108,5 +108,31 @@
     "subject": "AI voice and agent engineering support for ScienceSoft",
     "source": "Gmail Sent reconciliation",
     "campaign": "legacy_project_outreach"
+  },
+  {
+    "slug": "rock-solid-portland",
+    "recipient": "rocksolidconsultor@gmail.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T10:02:53.000Z",
+    "gmail_message_id": "1a115d0e51eb2a41",
+    "gmail_thread_id": "1a115d0e51eb2a41",
+    "subject": "I built a website concept for Rock Solid Consulting",
+    "preview_url": "https://rock-solid-portland.muhammadmuneeb.tech/",
+    "recipient_source": "https://www.rocksolidpnw.com/contact-5",
+    "source": "Gmail Sent with exact recipient, body and timestamp readback",
+    "delivery_status": "not confirmed"
+  },
+  {
+    "slug": "da-silva-manchester",
+    "recipient": "dasilvaautodetail08@gmail.com",
+    "status": "sent",
+    "sent_at": "2026-10-07T10:03:27.000Z",
+    "gmail_message_id": "1a115d1673db2b64",
+    "gmail_thread_id": "1a115d1673db2b64",
+    "subject": "I built a website concept for Da Silva Auto Detailing",
+    "preview_url": "https://da-silva-manchester.muhammadmuneeb.tech/",
+    "recipient_source": "https://dasilvaautodetail.wixsite.com/da-silva-auto-detail",
+    "source": "Gmail Sent with exact recipient, body and timestamp readback",
+    "delivery_status": "not confirmed"
   }
 ]

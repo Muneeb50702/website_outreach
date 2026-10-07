@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "rock-solid-portland-5acdd3e781104e6bdb5ea378",
+  "slug": "rock-solid-portland",
+  "fingerprint": "1012da66b72ebee444c19b84a820e92bc165ef5bd110e85731a0870b546f721e",
+  "status": "sent",
+  "created_at": "2026-10-07T09:59:46.339Z",
+  "expires_at": "2026-10-14T09:59:32.478Z",
+  "preview_url": "https://rock-solid-portland.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-07T09:59:46.339Z",
+  "recipient_source": "https://www.rocksolidpnw.com/contact-5",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "rocksolidconsultor@gmail.com",
+  "subject": "I built a website concept for Rock Solid Consulting",
+  "body": "Hi Rock Solid Consulting team,\n\n\nI came across your Portland hardscaping work and built a website concept inspired by your stone patios, walkways and retaining walls. It uses a warm architectural style and brings the service overview and phone contact together on a mobile-friendly homepage.\n\n\nView your website concept: https://rock-solid-portland.muhammadmuneeb.tech/\nhttps://rock-solid-portland.muhammadmuneeb.tech/\n\n\nThis is an independent, uncommissioned design proposal. The artwork is a concept illustration, rather than a photograph of your projects.\n\n\nWould this direction be useful for your business? I’d be happy to discuss adapting it into a finished website.\n\n\nMuhammad Muneeb\n\nPortfolio: https://muhammadmuneeb.tech/ ·\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen ·\nGitHub: https://github.com/Muneeb50702\n\n\nIf this isn’t relevant, reply “no thanks” and I won’t follow up.",
+  "body_html": "<p>Hi Rock Solid Consulting team,</p>\n<p>I came across your Portland hardscaping work and built a website concept inspired by your stone patios, walkways and retaining walls. It uses a warm architectural style and brings the service overview and phone contact together on a mobile-friendly homepage.</p>\n<p><a href=\"https://rock-solid-portland.muhammadmuneeb.tech/\">View your website concept</a><br>https://rock-solid-portland.muhammadmuneeb.tech/</p>\n<p>This is an independent, uncommissioned design proposal. The artwork is a concept illustration, rather than a photograph of your projects.</p>\n<p>Would this direction be useful for your business? I’d be happy to discuss adapting it into a finished website.</p>\n<p>Muhammad Muneeb<br>\n<a href=\"https://muhammadmuneeb.tech/\">Portfolio</a> ·\n<a href=\"https://www.linkedin.com/in/muhammad-muneeb-yaseen\">LinkedIn</a> ·\n<a href=\"https://github.com/Muneeb50702\">GitHub</a></p>\n<p>If this isn’t relevant, reply “no thanks” and I won’t follow up.</p>",
+  "sent_at": "2026-10-07T10:02:53.000Z",
+  "gmail_message_id": "1a115d0e51eb2a41",
+  "gmail_thread_id": "1a115d0e51eb2a41",
+  "sent_email_url": "https://mail.google.com/mail/u/?authuser=muhammad228yaseen%40gmail.com#all/1a115d0e51eb2a41",
+  "delivery_status": "not confirmed",
+  "gmail_reconciled_at": "2026-10-07T10:08:01.386Z"
+}

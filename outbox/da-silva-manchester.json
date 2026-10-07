@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "da-silva-manchester-fb3c1af4de5b2099ec295eb6",
+  "slug": "da-silva-manchester",
+  "fingerprint": "059465afa4a9603b02c9b1cd37c8d28c048415f1f90069d7bba6ece798786d79",
+  "status": "sent",
+  "created_at": "2026-10-07T10:00:56.411Z",
+  "expires_at": "2026-10-14T10:00:45.624Z",
+  "preview_url": "https://da-silva-manchester.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-07T10:00:56.411Z",
+  "recipient_source": "https://dasilvaautodetail.wixsite.com/da-silva-auto-detail",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "dasilvaautodetail08@gmail.com",
+  "subject": "I built a website concept for Da Silva Auto Detailing",
+  "body": "Hi Da Silva Auto Detailing team,\n\n\nI came across your family-owned Manchester shop and built a website concept around your interior, exterior and boat detailing services. It has a bold automotive style, a simple service selector and a direct phone action for visitors on mobile.\n\n\nView your website concept: https://da-silva-manchester.muhammadmuneeb.tech/\nhttps://da-silva-manchester.muhammadmuneeb.tech/\n\n\nThis is an independent, uncommissioned design proposal. The vehicle artwork is an original illustration, and the preview directs enquiries to your published business contacts.\n\n\nWould this direction suit your shop? I’d be happy to discuss turning it into a finished website for your business.\n\n\nMuhammad Muneeb\n\nPortfolio: https://muhammadmuneeb.tech/ ·\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen ·\nGitHub: https://github.com/Muneeb50702\n\n\nIf this isn’t relevant, reply “no thanks” and I won’t follow up.",
+  "body_html": "<p>Hi Da Silva Auto Detailing team,</p>\n<p>I came across your family-owned Manchester shop and built a website concept around your interior, exterior and boat detailing services. It has a bold automotive style, a simple service selector and a direct phone action for visitors on mobile.</p>\n<p><a href=\"https://da-silva-manchester.muhammadmuneeb.tech/\">View your website concept</a><br>https://da-silva-manchester.muhammadmuneeb.tech/</p>\n<p>This is an independent, uncommissioned design proposal. The vehicle artwork is an original illustration, and the preview directs enquiries to your published business contacts.</p>\n<p>Would this direction suit your shop? I’d be happy to discuss turning it into a finished website for your business.</p>\n<p>Muhammad Muneeb<br>\n<a href=\"https://muhammadmuneeb.tech/\">Portfolio</a> ·\n<a href=\"https://www.linkedin.com/in/muhammad-muneeb-yaseen\">LinkedIn</a> ·\n<a href=\"https://github.com/Muneeb50702\">GitHub</a></p>\n<p>If this isn’t relevant, reply “no thanks” and I won’t follow up.</p>",
+  "sent_at": "2026-10-07T10:03:27.000Z",
+  "gmail_message_id": "1a115d1673db2b64",
+  "gmail_thread_id": "1a115d1673db2b64",
+  "sent_email_url": "https://mail.google.com/mail/u/?authuser=muhammad228yaseen%40gmail.com#all/1a115d1673db2b64",
+  "delivery_status": "not confirmed",
+  "gmail_reconciled_at": "2026-10-07T10:08:01.386Z"
+}

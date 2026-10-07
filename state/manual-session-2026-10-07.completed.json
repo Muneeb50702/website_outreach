@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "completed_at": "2026-10-07T10:08:01.386Z",
+  "clients": [
+    {
+      "slug": "rock-solid-portland",
+      "preview_url": "https://rock-solid-portland.muhammadmuneeb.tech/",
+      "gmail_message_id": "1a115d0e51eb2a41",
+      "spreadsheet_row": 3,
+      "call_status": "Not called"
+    },
+    {
+      "slug": "da-silva-manchester",
+      "preview_url": "https://da-silva-manchester.muhammadmuneeb.tech/",
+      "gmail_message_id": "1a115d1673db2b64",
+      "spreadsheet_row": 4,
+      "call_status": "Not called"
+    }
+  ],
+  "spreadsheet_id": "1gvdCQSVA7uM31zCJLyEtIhaHp33MePNp0Vdwoj4ImMA",
+  "sheet": "Clients",
+  "verified_range": "A3:X4",
+  "daily_sent_reconciled": 13,
+  "shared_daily_cap": 20,
+  "notes": "Two demos published and exact HTTPS/assets verified, two personalized emails read back in Gmail Sent, native client table extended with two verified rows."
+}
