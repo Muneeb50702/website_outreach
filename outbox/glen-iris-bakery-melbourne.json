@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "glen-iris-bakery-melbourne-51b075a58845705cc3182473",
+  "slug": "glen-iris-bakery-melbourne",
+  "fingerprint": "ba756f3ae981ab06b6e7720b8c8457f9a9ef65fff5b2a435fc5f9a650bd72f55",
+  "status": "needs_gmail_review",
+  "created_at": "2026-10-07T11:30:15.171Z",
+  "expires_at": "2026-10-14T11:30:05.036Z",
+  "preview_url": "https://glen-iris-bakery-melbourne.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-07T11:30:15.171Z",
+  "recipient_source": "https://glenirisbakerycafe.wixsite.com/mysite",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "glenirisbakerycafe@gmail.com",
+  "subject": "A website concept for Glen Iris Bakery Cafe",
+  "body": "Hi Glen Iris Bakery Cafe team,\n\nI came across your business in Glen Iris, Melbourne, Victoria, Australia and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://glen-iris-bakery-melbourne.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up."
+}

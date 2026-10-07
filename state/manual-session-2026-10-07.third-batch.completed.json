@@ -1,0 +1,76 @@
+{
+  "completed_at": "2026-10-07T11:38:00.867483Z",
+  "user_request": "still 40% left make 3 more",
+  "authorized_build_count": 3,
+  "published_count": 3,
+  "sites": [
+    {
+      "slug": "frock-me-london",
+      "url": "https://frock-me-london.muhammadmuneeb.tech/",
+      "release": "4430257ef82788badf64c522",
+      "fingerprint": "d984480144db26b93af36b396e1efbcd1b589d2d6c26873e2d62a843a084d132",
+      "live_verified_at": "2026-10-07T11:29:03.059Z",
+      "expires_at": "2026-10-14T11:28:52.279Z",
+      "deployment_run": 37614241522,
+      "tracker_row": 8,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "refreshed-paws-nova-scotia",
+      "url": "https://refreshed-paws-nova-scotia.muhammadmuneeb.tech/",
+      "release": "1d4c2e1e04f07a2ff4e4ffd6",
+      "fingerprint": "0e14e10fb9944dc485b2b5eb6d240f602143caab19f76f67d97c1e2e9c942d0e",
+      "live_verified_at": "2026-10-07T11:31:30.554Z",
+      "expires_at": "2026-10-14T11:31:12.314Z",
+      "deployment_run": 37614495695,
+      "tracker_row": 9,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "glen-iris-bakery-melbourne",
+      "url": "https://glen-iris-bakery-melbourne.muhammadmuneeb.tech/",
+      "release": "51b075a58845705cc3182473",
+      "fingerprint": "ba756f3ae981ab06b6e7720b8c8457f9a9ef65fff5b2a435fc5f9a650bd72f55",
+      "live_verified_at": "2026-10-07T11:30:15.171Z",
+      "expires_at": "2026-10-14T11:30:05.036Z",
+      "deployment_run": 37614316982,
+      "tracker_row": 10,
+      "email_status": "Not sent"
+    }
+  ],
+  "verification": {
+    "tests": "21 passed",
+    "source_quality_run": 37613818767,
+    "final_grooming_quality_run": 37614241535,
+    "actual_screenshot_widths": [
+      320,
+      390,
+      768,
+      1440
+    ],
+    "live_https": "Exact HTML and every public asset verified by deployment workflows",
+    "live_ui": "Every category control exercised; default states restored"
+  },
+  "tracker": {
+    "spreadsheet_id": "1gvdCQSVA7uM31zCJLyEtIhaHp33MePNp0Vdwoj4ImMA",
+    "sheet": "Clients",
+    "changed_range": "A8:X10",
+    "native_table_range": "A1:X10",
+    "new_cells_verified": 72,
+    "prior_cells_unchanged": 168,
+    "total_client_records": 9,
+    "timezone": "Asia/Karachi",
+    "numeric_date_values": true,
+    "dropdowns_and_date_formats_preserved": true,
+    "manual_whatsapp_and_call_records_preserved": true
+  },
+  "new_outreach_messages": 0,
+  "persistent_settings_unchanged": [
+    "shared email cap 20/day",
+    "demo outreach disabled",
+    "one pilot default",
+    "paused automations",
+    "outreach ledger"
+  ],
+  "usage_note": "No fixed per-website product usage percentage inferred."
+}

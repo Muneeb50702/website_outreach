@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "slug": "frock-me-london",
+  "hostname": "frock-me-london.muhammadmuneeb.tech",
+  "business_name": "Frock Me Handmade",
+  "status": "active",
+  "release": "4430257ef82788badf64c522",
+  "fingerprint": "d984480144db26b93af36b396e1efbcd1b589d2d6c26873e2d62a843a084d132",
+  "created_at": "2026-10-07T11:28:52.279Z",
+  "deployed_at": "2026-10-07T11:28:52.279Z",
+  "expires_at": "2026-10-14T11:28:52.279Z",
+  "interested": false,
+  "live_verified_at": "2026-10-07T11:29:03.059Z",
+  "preview_url": "https://frock-me-london.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37614241522",
+  "tracker_row": 8,
+  "live_ui_checked_at": "2026-10-07T11:38:00.867483Z",
+  "live_ui_checks": [
+    "Tailoring, Knitwear and Embroidery choices changed artwork and live announcement",
+    "All three SVG artwork variants loaded",
+    "Mouse and Enter keyboard activation exercised; default restored"
+  ]
+}
