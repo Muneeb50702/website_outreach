@@ -3,19 +3,28 @@
   "id": "br-plumbing-austin-eaa5999ab4ce8aaf9ae9a728",
   "slug": "br-plumbing-austin",
   "fingerprint": "74898fb0b0caa5a1c868e8aa7152ca5d1e31e4a9decffd386222cea49a968572",
-  "status": "needs_gmail_review",
+  "status": "sent",
   "created_at": "2026-10-07T06:00:19.036Z",
   "expires_at": "2026-10-14T06:00:06.712Z",
   "preview_url": "https://br-plumbing-austin.muhammadmuneeb.tech/",
   "live_verified_at": "2026-10-07T06:00:19.036Z",
   "recipient_source": "https://www.brplumbingatx.com/contact",
-  "checks_required": [
+  "to": "brplumbingatx1@gmail.com",
+  "subject": "I built a website concept for BR Plumbing",
+  "body": "Hi Jason,\n\nI came across BR Plumbing in Austin and put together a custom website concept for your business to show how your online presence could look with a cleaner, more conversion-focused layout.\n\nYou can view the live demo here:\nhttps://br-plumbing-austin.muhammadmuneeb.tech/\n\nI built it around your plumbing services and made it mobile-friendly so customers can quickly understand what you offer and contact you.\n\nIf you like the direction, I’d be happy to customize it further and turn it into a production website for BR Plumbing.\n\nBest,\nMuhammad Muneeb\nhttps://muhammadmuneeb.tech/\n",
+  "generated_draft": {
+    "subject": "A website concept for BR Plumbing",
+    "body": "Hi BR Plumbing team,\n\nI came across your business in Austin, Texas, and surrounding areas and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://br-plumbing-austin.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up."
+  },
+  "sent_at": "2026-10-07T09:07:57.000Z",
+  "gmail_message_id": "1a1159e98a146c23",
+  "gmail_thread_id": "1a1159e98a146c23",
+  "delivery_status": "not confirmed",
+  "source": "Gmail Sent reconciliation; exact recipient, body and timestamp readback",
+  "checks_required_at_draft_creation": [
     "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
     "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
     "Qualify this prospect using a current website comparison",
     "Recheck demo URL and remaining shared daily quota before sending"
-  ],
-  "to": "brplumbingatx1@gmail.com",
-  "subject": "A website concept for BR Plumbing",
-  "body": "Hi BR Plumbing team,\n\nI came across your business in Austin, Texas, and surrounding areas and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://br-plumbing-austin.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up."
+  ]
 }

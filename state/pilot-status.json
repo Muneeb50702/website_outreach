@@ -9,8 +9,11 @@
   "expires_at": "2026-10-14T06:00:06.712Z",
   "live_verified_at": "2026-10-07T06:00:19.036Z",
   "deployment_run": "https://github.com/Muneeb50702/website_outreach/actions/runs/37579051406",
-  "demo_emails_sent": 0,
-  "demo_sender": "not wired up; generated draft requires Gmail review and prospect qualification",
+  "demo_emails_sent": 1,
+  "demo_sender": "Pilot sent through Gmail; automatic demo sending remains disabled",
   "legacy_project_outreach_daily_cap": 20,
-  "daily_prospect_brief_task": "configured; future execution still requires verification"
+  "daily_prospect_brief_task": "configured; future execution still requires verification",
+  "pilot_email_sent_at": "2026-10-07T09:07:57.000Z",
+  "pilot_gmail_message_id": "1a1159e98a146c23",
+  "delivery_status": "not confirmed"
 }
