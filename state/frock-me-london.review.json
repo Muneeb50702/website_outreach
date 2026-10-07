@@ -1,0 +1,26 @@
+{
+  "approved": true,
+  "fingerprint": "d984480144db26b93af36b396e1efbcd1b589d2d6c26873e2d62a843a084d132",
+  "reviewer": "Codex — actual visual inspection",
+  "reviewed_at": "2026-10-07T11:27:44.884604Z",
+  "scores": {
+    "visual": 8.8,
+    "mobile": 8.7,
+    "business_relevance": 9.0,
+    "typography": 8.8,
+    "conversion": 8.7
+  },
+  "evidence": [
+    "Quality checks https://github.com/Muneeb50702/website_outreach/actions/runs/37613818767 at source commit d52116b29d855ec23c36b78db991e0541f76e4f9",
+    "Actual 1440.png and 768.png inspected; actual 320.png and 390.png inspected together in lossless mobile-pair.png",
+    "reports/third-batch-review/frock-me-london/browser.json: all four widths passed, no resource or console errors"
+  ],
+  "limitations": [
+    "Subjective visual scores; not Lighthouse, accessibility certification or measured conversions",
+    "Original artwork is illustration, not real business products or project photography",
+    "Secondary labels and illustration captions are small; primary service and contact copy remains readable",
+    "Mobile call bar is fixed; footer spacing reserves space and full-page captures place the bar near the initial viewport bottom",
+    "Contact details are public-site verified; current operation, deliverability and buying interest are unknown",
+    "Interactive choices will be exercised on the verified live site; no live booking, order or payment flow"
+  ]
+}
