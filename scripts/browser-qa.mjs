@@ -39,6 +39,22 @@ try {
           await page.keyboard.press('Escape');
           if(await menu.getAttribute('aria-expanded')!=='false')errors.push('Mobile menu did not close on Escape');
         }
+        const filters=page.locator('[data-filter]');
+        if(await filters.count()) {
+          for(const filter of await filters.all()) {
+            await filter.click();
+            const group=await filter.getAttribute('data-filter');
+            const state=await page.evaluate(group=>({
+              pressed:document.querySelectorAll('[data-filter][aria-pressed="true"]').length,
+              visible:[...document.querySelectorAll('[data-category]')].filter(c=>!c.hidden).map(c=>c.dataset.category),
+              total:document.querySelectorAll('[data-category]').length,
+              expected:[...document.querySelectorAll('[data-category]')].filter(c=>group==='all'||c.dataset.category===group).length
+            }),group);
+            if(state.pressed!==1||state.visible.length!==state.expected||!state.visible.length||state.visible.some(c=>group!=='all'&&c!==group))errors.push(`Service filter failed: ${group} at ${width}px`);
+          }
+          await page.locator('[data-filter="all"]').click();
+          await page.evaluate(()=>scrollTo(0,0));
+        }
         await page.screenshot({path:`${dir}/${width}.png`,fullPage:true});
         const passed=!checks.overflow&&checks.h1Count===1&&!checks.missingAlts&&!checks.brokenImages&&!checks.emptyLinks&&!checks.badAnchors.length&&checks.disclosure&&checks.primaryCTA&&checks.robots&&!checks.externalResources.length;
         results.push({width,passed,...checks});await page.close();

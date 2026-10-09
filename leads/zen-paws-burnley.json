@@ -30,8 +30,8 @@
   },
   "call_record": {
     "local_timezone": "Europe/London",
-    "suggested_pkt_window": "13:00–16:00 weekdays through 24 Oct; 14:00–17:00 from 25 Oct (suggested)",
-    "basis": "Suggested 09:00–12:00 local business time, converted using IANA timezone and 2026 daylight-saving dates; current business availability should be confirmed."
+    "suggested_pkt_window": "16:00–19:00 Tue–Sat through 24 Oct; 17:00–20:00 from 25 Oct (suggested)",
+    "basis": "Suggested 12:00–15:00 local time within published Tuesday–Saturday hours; BST UTC+1 through 24 Oct, GMT from 25 Oct."
   },
   "sources": [
     {
