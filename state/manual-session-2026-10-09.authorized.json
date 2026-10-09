@@ -1,0 +1,20 @@
+{
+  "requested_at": "2026-10-09T05:00:13.589846Z",
+  "request": "Continue existing website workflow and build 10 more websites",
+  "authorized_build_count": 10,
+  "slugs": [
+    "tops-tails-telford",
+    "zen-paws-burnley",
+    "mr-fussy-wirral",
+    "everclean-belfast",
+    "greensboro-mississauga",
+    "ms-lawn-mississauga",
+    "hometeq-alfreton",
+    "imagine-southampton",
+    "clear-reflections-cornwall",
+    "rocket-city-huntsville"
+  ],
+  "publication": "Existing Cloudflare demo workflow",
+  "outreach": "Draft preparation only; persistent demo outreach remains disabled",
+  "shared_daily_email_cap": 20
+}

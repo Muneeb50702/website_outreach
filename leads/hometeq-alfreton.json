@@ -1,0 +1,61 @@
+{
+  "slug": "hometeq-alfreton",
+  "business_name": "Hometeq Electrical Solutions",
+  "industry": "Electrical services",
+  "location": "Shirland, Alfreton, Derbyshire, United Kingdom",
+  "website": "https://hometeqelectrical.wixsite.com/website",
+  "services": [
+    "Full or partial rewiring",
+    "Sockets & lighting",
+    "Consumer units",
+    "Fault finding",
+    "Outdoor power & lighting",
+    "Kitchens & bathrooms"
+  ],
+  "contact": {
+    "email": "hometeqelectrical@gmail.com",
+    "phone": "+447595360977",
+    "person": "Business team — name unconfirmed",
+    "source_url": "https://hometeqelectrical.wixsite.com/website",
+    "whatsapp_publicly_listed": false
+  },
+  "design_direction": "hometeq — Electrical solutions for everyday life; bespoke composition, locally hosted illustrative imagery and a filtered service index. Colors #152740 and #ffac6c.",
+  "primary_conversion": "phone_call",
+  "hours": "Current hours unconfirmed; not displayed in concept",
+  "opportunity": {
+    "observation": "The business lists installations and repairs in one long page. The concept introduces a task-based service index. Accreditation images on the original are not independently verified and are not reused as claims.",
+    "source_url": "https://hometeqelectrical.wixsite.com/website",
+    "priority": "design_hypothesis",
+    "qualified_for_outreach": false,
+    "checked_at": "2026-10-09T05:00:13.589846Z",
+    "comparison_evidence": "Business-owned text and service/contact structure inspected; desktop/mobile visual sales qualification is pending. No sales performance claims."
+  },
+  "call_record": {
+    "local_timezone": "Europe/London",
+    "suggested_pkt_window": "13:00–16:00 weekdays through 24 Oct; 14:00–17:00 from 25 Oct (suggested)",
+    "basis": "Suggested 09:00–12:00 local business time, converted using IANA timezone and 2026 daylight-saving dates; current business availability should be confirmed."
+  },
+  "sources": [
+    {
+      "url": "https://hometeqelectrical.wixsite.com/website",
+      "checked_at": "2026-10-09T05:00:13.589846Z",
+      "facts": [
+        "Hometeq Electrical Solutions",
+        "Shirland, Alfreton, Derbyshire, United Kingdom",
+        "Public business email hometeqelectrical@gmail.com",
+        "Public phone +447595360977",
+        "Listed services: Full or partial rewiring, Sockets & lighting, Consumer units, Fault finding, Outdoor power & lighting, Kitchens & bathrooms"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Public website presence does not prove current operation, buying intent or email deliverability.",
+    "No current prices, certifications, ratings or customer testimonials asserted.",
+    "The image is an AI-created illustrative photograph, not this business, a customer or its actual work.",
+    "No email send is authorized by this build record; demo outreach remains disabled."
+  ],
+  "media": {
+    "type": "typographic_design",
+    "description": "No project imagery or external media"
+  }
+}

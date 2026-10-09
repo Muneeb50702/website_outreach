@@ -1,0 +1,60 @@
+{
+  "slug": "everclean-belfast",
+  "business_name": "EverClean Cleaning Solutions",
+  "industry": "Exterior cleaning",
+  "location": "Belfast, Northern Ireland, United Kingdom",
+  "website": "https://evercleancleanings.wixsite.com/website",
+  "services": [
+    "Window cleaning",
+    "Gutter cleaning",
+    "Power washing"
+  ],
+  "contact": {
+    "email": "evercleancleaningsolutions@gmail.com",
+    "phone": "+447872946556",
+    "person": "Business team — name unconfirmed",
+    "source_url": "https://evercleancleanings.wixsite.com/website",
+    "whatsapp_publicly_listed": false
+  },
+  "design_direction": "ever — Exterior care · Belfast; bespoke composition, locally hosted illustrative imagery and a filtered service index. Colors #063f48 and #83ddd4.",
+  "primary_conversion": "phone_call",
+  "hours": "Monday–Friday, 09:00–17:00",
+  "opportunity": {
+    "observation": "The public homepage has an empty headline and places hours before its service list. The concept puts the three supported cleaning services and direct contact first. Existing website operation and customer demand are unverified.",
+    "source_url": "https://evercleancleanings.wixsite.com/website",
+    "priority": "design_hypothesis",
+    "qualified_for_outreach": false,
+    "checked_at": "2026-10-09T05:00:13.589846Z",
+    "comparison_evidence": "Business-owned text and service/contact structure inspected; desktop/mobile visual sales qualification is pending. No sales performance claims."
+  },
+  "call_record": {
+    "local_timezone": "Europe/London",
+    "suggested_pkt_window": "13:00–16:00 weekdays through 24 Oct; 14:00–17:00 from 25 Oct (suggested)",
+    "basis": "Suggested 09:00–12:00 local business time, converted using IANA timezone and 2026 daylight-saving dates; current business availability should be confirmed."
+  },
+  "sources": [
+    {
+      "url": "https://evercleancleanings.wixsite.com/website",
+      "checked_at": "2026-10-09T05:00:13.589846Z",
+      "facts": [
+        "EverClean Cleaning Solutions",
+        "Belfast, Northern Ireland, United Kingdom",
+        "Public business email evercleancleaningsolutions@gmail.com",
+        "Public phone +447872946556",
+        "Listed services: Window cleaning, Gutter cleaning, Power washing"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Public website presence does not prove current operation, buying intent or email deliverability.",
+    "No current prices, certifications, ratings or customer testimonials asserted.",
+    "The image is an AI-created illustrative photograph, not this business, a customer or its actual work.",
+    "No email send is authorized by this build record; demo outreach remains disabled."
+  ],
+  "media": {
+    "type": "ai_generated_illustrative_photo",
+    "creator": "ImageGen for Muhammad Muneeb",
+    "asset_family": "garden",
+    "description": "Generic illustration for an independent design concept; not actual business work"
+  }
+}

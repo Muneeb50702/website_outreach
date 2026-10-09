@@ -1,0 +1,63 @@
+{
+  "slug": "ms-lawn-mississauga",
+  "business_name": "MS Lawn Care",
+  "industry": "Lawn care and landscaping",
+  "location": "Mississauga, Ontario, Canada",
+  "website": "https://mitchsahely.wixsite.com/mslawncare-1",
+  "services": [
+    "Aeration & overseeding",
+    "Fertilizer & weed control",
+    "Lawn replacement",
+    "Landscaping",
+    "Spring & fall clean-ups",
+    "Snow removal"
+  ],
+  "contact": {
+    "email": "mitchellsahely@gmail.com",
+    "phone": "+16477450807",
+    "person": "Business team — name unconfirmed",
+    "source_url": "https://mitchsahely.wixsite.com/mslawncare-1",
+    "whatsapp_publicly_listed": false
+  },
+  "design_direction": "ms — Local lawn & landscape care; bespoke composition, locally hosted illustrative imagery and a filtered service index. Colors #1e452c and #f1d347.",
+  "primary_conversion": "phone_call",
+  "hours": "Current hours unconfirmed; not displayed in concept",
+  "opportunity": {
+    "observation": "The public page retains explicit template copy in testimonial and quote sections. The concept removes those placeholders and makes its supported service categories easy to browse. No fabricated review or rating is copied.",
+    "source_url": "https://mitchsahely.wixsite.com/mslawncare-1",
+    "priority": "design_hypothesis",
+    "qualified_for_outreach": false,
+    "checked_at": "2026-10-09T05:00:13.589846Z",
+    "comparison_evidence": "Business-owned text and service/contact structure inspected; desktop/mobile visual sales qualification is pending. No sales performance claims."
+  },
+  "call_record": {
+    "local_timezone": "America/Toronto",
+    "suggested_pkt_window": "18:00–21:00 weekdays through 31 Oct; 19:00–22:00 from 1 Nov (suggested)",
+    "basis": "Suggested 09:00–12:00 local business time, converted using IANA timezone and 2026 daylight-saving dates; current business availability should be confirmed."
+  },
+  "sources": [
+    {
+      "url": "https://mitchsahely.wixsite.com/mslawncare-1",
+      "checked_at": "2026-10-09T05:00:13.589846Z",
+      "facts": [
+        "MS Lawn Care",
+        "Mississauga, Ontario, Canada",
+        "Public business email mitchellsahely@gmail.com",
+        "Public phone +16477450807",
+        "Listed services: Aeration & overseeding, Fertilizer & weed control, Lawn replacement, Landscaping, Spring & fall clean-ups, Snow removal"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Public website presence does not prove current operation, buying intent or email deliverability.",
+    "No current prices, certifications, ratings or customer testimonials asserted.",
+    "The image is an AI-created illustrative photograph, not this business, a customer or its actual work.",
+    "No email send is authorized by this build record; demo outreach remains disabled."
+  ],
+  "media": {
+    "type": "ai_generated_illustrative_photo",
+    "creator": "ImageGen for Muhammad Muneeb",
+    "asset_family": "garden",
+    "description": "Generic illustration for an independent design concept; not actual business work"
+  }
+}

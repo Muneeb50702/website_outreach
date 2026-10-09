@@ -1,0 +1,63 @@
+{
+  "slug": "tops-tails-telford",
+  "business_name": "Tops N' Tails",
+  "industry": "Dog grooming",
+  "location": "Malinslee, Telford, United Kingdom",
+  "website": "https://topsntailsgrooming.wixsite.com/my-site",
+  "services": [
+    "Full groom",
+    "Bath & brush",
+    "Bath & de-shed",
+    "Puppy introduction",
+    "Nail clipping",
+    "Sanitary groom"
+  ],
+  "contact": {
+    "email": "topsntailsgrooming@gmail.com",
+    "phone": "+447534422468",
+    "person": "Charlotte",
+    "source_url": "https://topsntailsgrooming.wixsite.com/my-site",
+    "whatsapp_publicly_listed": false
+  },
+  "design_direction": "tops — Charlotte’s grooming studio · Telford; bespoke composition, locally hosted illustrative imagery and a filtered service index. Colors #164f3d and #dbeb7a.",
+  "primary_conversion": "phone_call",
+  "hours": "Current hours unconfirmed; not displayed in concept",
+  "opportunity": {
+    "observation": "The public free-hosted page lists six treatments and contact details. A concise treatment chooser and a prominent mobile call link are a design hypothesis, not evidence of a measured sales problem.",
+    "source_url": "https://topsntailsgrooming.wixsite.com/my-site",
+    "priority": "design_hypothesis",
+    "qualified_for_outreach": false,
+    "checked_at": "2026-10-09T05:00:13.589846Z",
+    "comparison_evidence": "Business-owned text and service/contact structure inspected; desktop/mobile visual sales qualification is pending. No sales performance claims."
+  },
+  "call_record": {
+    "local_timezone": "Europe/London",
+    "suggested_pkt_window": "13:00–16:00 weekdays through 24 Oct; 14:00–17:00 from 25 Oct (suggested)",
+    "basis": "Suggested 09:00–12:00 local business time, converted using IANA timezone and 2026 daylight-saving dates; current business availability should be confirmed."
+  },
+  "sources": [
+    {
+      "url": "https://topsntailsgrooming.wixsite.com/my-site",
+      "checked_at": "2026-10-09T05:00:13.589846Z",
+      "facts": [
+        "Tops N' Tails",
+        "Malinslee, Telford, United Kingdom",
+        "Public business email topsntailsgrooming@gmail.com",
+        "Public phone +447534422468",
+        "Listed services: Full groom, Bath & brush, Bath & de-shed, Puppy introduction, Nail clipping, Sanitary groom"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Public website presence does not prove current operation, buying intent or email deliverability.",
+    "No current prices, certifications, ratings or customer testimonials asserted.",
+    "The image is an AI-created illustrative photograph, not this business, a customer or its actual work.",
+    "No email send is authorized by this build record; demo outreach remains disabled."
+  ],
+  "media": {
+    "type": "ai_generated_illustrative_photo",
+    "creator": "ImageGen for Muhammad Muneeb",
+    "asset_family": "dog",
+    "description": "Generic illustration for an independent design concept; not actual business work"
+  }
+}

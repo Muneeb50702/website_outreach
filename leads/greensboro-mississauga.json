@@ -1,0 +1,63 @@
+{
+  "slug": "greensboro-mississauga",
+  "business_name": "Greensboro Property Work",
+  "industry": "Landscaping, construction and snow removal",
+  "location": "Mississauga and Greater Toronto Area, Ontario, Canada",
+  "website": "https://greensboroproperty.wixsite.com/website",
+  "services": [
+    "Landscape design & gardens",
+    "Property clean-ups",
+    "Decks & fences",
+    "Pavers & retaining walls",
+    "Snow removal",
+    "Salting & snow hauling"
+  ],
+  "contact": {
+    "email": "greensboropropertywork@gmail.com",
+    "phone": "+16475268885",
+    "person": "Business team — current owner unconfirmed",
+    "source_url": "https://greensboroproperty.wixsite.com/website",
+    "whatsapp_publicly_listed": false
+  },
+  "design_direction": "greensboro — Greensboro Property Work / Mississauga + GTA; bespoke composition, locally hosted illustrative imagery and a filtered service index. Colors #163827 and #e4ed84.",
+  "primary_conversion": "phone_call",
+  "hours": "Current hours unconfirmed; not displayed in concept",
+  "opportunity": {
+    "observation": "The current public page has a long mixed service list and opening-hour text dated 2020–2021. The concept groups its supported work into three categories and omits dated hours. It does not claim current emergency availability.",
+    "source_url": "https://greensboroproperty.wixsite.com/website",
+    "priority": "design_hypothesis",
+    "qualified_for_outreach": false,
+    "checked_at": "2026-10-09T05:00:13.589846Z",
+    "comparison_evidence": "Business-owned text and service/contact structure inspected; desktop/mobile visual sales qualification is pending. No sales performance claims."
+  },
+  "call_record": {
+    "local_timezone": "America/Toronto",
+    "suggested_pkt_window": "18:00–21:00 weekdays through 31 Oct; 19:00–22:00 from 1 Nov (suggested)",
+    "basis": "Suggested 09:00–12:00 local business time, converted using IANA timezone and 2026 daylight-saving dates; current business availability should be confirmed."
+  },
+  "sources": [
+    {
+      "url": "https://greensboroproperty.wixsite.com/website",
+      "checked_at": "2026-10-09T05:00:13.589846Z",
+      "facts": [
+        "Greensboro Property Work",
+        "Mississauga and Greater Toronto Area, Ontario, Canada",
+        "Public business email greensboropropertywork@gmail.com",
+        "Public phone +16475268885",
+        "Listed services: Landscape design & gardens, Property clean-ups, Decks & fences, Pavers & retaining walls, Snow removal, Salting & snow hauling"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Public website presence does not prove current operation, buying intent or email deliverability.",
+    "No current prices, certifications, ratings or customer testimonials asserted.",
+    "The image is an AI-created illustrative photograph, not this business, a customer or its actual work.",
+    "No email send is authorized by this build record; demo outreach remains disabled."
+  ],
+  "media": {
+    "type": "ai_generated_illustrative_photo",
+    "creator": "ImageGen for Muhammad Muneeb",
+    "asset_family": "garden",
+    "description": "Generic illustration for an independent design concept; not actual business work"
+  }
+}

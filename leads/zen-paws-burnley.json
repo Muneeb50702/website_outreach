@@ -1,0 +1,61 @@
+{
+  "slug": "zen-paws-burnley",
+  "business_name": "Zen Paws Spa",
+  "industry": "Dog grooming and spa treatments",
+  "location": "Ightenhill, Burnley, United Kingdom",
+  "website": "https://orreauva.wixsite.com/zenpawsspa",
+  "services": [
+    "Full groom",
+    "Nagayu spa treatment",
+    "Emmi-Pet teeth cleaning",
+    "Nail grinding"
+  ],
+  "contact": {
+    "email": "zenpawsspagrooming@gmail.com",
+    "phone": "+447738061118",
+    "person": "Studio team — name unconfirmed",
+    "source_url": "https://orreauva.wixsite.com/zenpawsspa",
+    "whatsapp_publicly_listed": true
+  },
+  "design_direction": "zen — Grooming & styling · Poodle specialist; bespoke composition, locally hosted illustrative imagery and a filtered service index. Colors #29243f and #ded8ef.",
+  "primary_conversion": "phone_call",
+  "hours": "Tuesday–Saturday, 12:00–18:30",
+  "opportunity": {
+    "observation": "The business-owned page presents several treatments across separate navigation items. A unified treatment overview and clearly grouped contact options are a design hypothesis. The page lists different booking and contact emails; this concept uses the explicit contact email.",
+    "source_url": "https://orreauva.wixsite.com/zenpawsspa",
+    "priority": "design_hypothesis",
+    "qualified_for_outreach": false,
+    "checked_at": "2026-10-09T05:00:13.589846Z",
+    "comparison_evidence": "Business-owned text and service/contact structure inspected; desktop/mobile visual sales qualification is pending. No sales performance claims."
+  },
+  "call_record": {
+    "local_timezone": "Europe/London",
+    "suggested_pkt_window": "13:00–16:00 weekdays through 24 Oct; 14:00–17:00 from 25 Oct (suggested)",
+    "basis": "Suggested 09:00–12:00 local business time, converted using IANA timezone and 2026 daylight-saving dates; current business availability should be confirmed."
+  },
+  "sources": [
+    {
+      "url": "https://orreauva.wixsite.com/zenpawsspa",
+      "checked_at": "2026-10-09T05:00:13.589846Z",
+      "facts": [
+        "Zen Paws Spa",
+        "Ightenhill, Burnley, United Kingdom",
+        "Public business email zenpawsspagrooming@gmail.com",
+        "Public phone +447738061118",
+        "Listed services: Full groom, Nagayu spa treatment, Emmi-Pet teeth cleaning, Nail grinding"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Public website presence does not prove current operation, buying intent or email deliverability.",
+    "No current prices, certifications, ratings or customer testimonials asserted.",
+    "The image is an AI-created illustrative photograph, not this business, a customer or its actual work.",
+    "No email send is authorized by this build record; demo outreach remains disabled."
+  ],
+  "media": {
+    "type": "ai_generated_illustrative_photo",
+    "creator": "ImageGen for Muhammad Muneeb",
+    "asset_family": "dog",
+    "description": "Generic illustration for an independent design concept; not actual business work"
+  }
+}

@@ -18,7 +18,7 @@ jobs:
   deploy:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     env:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
@@ -41,27 +41,22 @@ jobs:
           node --input-type=module <<'NODE'
           import {readFile,appendFile} from 'node:fs/promises';
           import {slug} from './scripts/lib/core.mjs';
-          const request = process.env.INPUT_SLUG || JSON.parse(await readFile('state/deploy-request.json','utf8')).slug;
-          await appendFile(process.env.GITHUB_OUTPUT, `slug=${slug(request)}\n`);
+          const request = process.env.INPUT_SLUG ? {slug:process.env.INPUT_SLUG} : JSON.parse(await readFile('state/deploy-request.json','utf8'));
+          const names = request.slugs || [request.slug];
+          if(!Array.isArray(names)||!names.length||names.length>10||new Set(names).size!==names.length)throw new Error('Request needs 1–10 distinct slugs');
+          names.forEach(slug);
+          await appendFile(process.env.GITHUB_OUTPUT, `slugs=${JSON.stringify(names)}\n`);
           NODE
       - run: npm test
       - run: npm run build
       - run: npm install --no-save --ignore-scripts playwright@1.62.1
       - run: npx playwright install --with-deps chromium
-      - name: Browser verification
-        env:
-          DEMO_SLUG: ${{ steps.request.outputs.slug }}
-        run: node scripts/browser-qa.mjs "$DEMO_SLUG"
       - name: Verify configured Cloudflare credentials
         run: npm run check-config
-      - name: Deploy reviewed demo
+      - name: Verify, deploy and prepare drafts for reviewed concepts
         env:
-          DEMO_SLUG: ${{ steps.request.outputs.slug }}
-        run: node scripts/deploy.mjs "$DEMO_SLUG"
-      - name: Verify HTTPS and prepare outreach draft
-        env:
-          DEMO_SLUG: ${{ steps.request.outputs.slug }}
-        run: node scripts/draft.mjs "$DEMO_SLUG"
+          REQUESTED_SLUGS: ${{ steps.request.outputs.slugs }}
+        run: node scripts/deploy-batch.mjs
       - name: Save deployment evidence and draft
         if: always()
         uses: actions/upload-artifact@v4
