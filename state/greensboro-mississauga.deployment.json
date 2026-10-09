@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "slug": "greensboro-mississauga",
+  "hostname": "greensboro-mississauga.muhammadmuneeb.tech",
+  "business_name": "Greensboro Property Work",
+  "status": "active",
+  "release": "5698f1ab8b8de3738fef71e8",
+  "fingerprint": "086d9e9bcccfdc477ef56876d21be2874e27577dc11b065e06a07cd7539eddf2",
+  "created_at": "2026-10-09T05:25:06.150Z",
+  "deployed_at": "2026-10-09T05:25:06.150Z",
+  "expires_at": "2026-10-16T05:25:06.150Z",
+  "interested": false,
+  "live_verified_at": "2026-10-09T05:25:36.896Z",
+  "preview_url": "https://greensboro-mississauga.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321",
+  "tracker_row": 15,
+  "browser_qa_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321"
+}

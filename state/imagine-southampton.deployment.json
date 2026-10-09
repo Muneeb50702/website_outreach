@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "slug": "imagine-southampton",
+  "hostname": "imagine-southampton.muhammadmuneeb.tech",
+  "business_name": "Imagine Electrical",
+  "status": "active",
+  "release": "15a660a07a7e046636491599",
+  "fingerprint": "3e355b734cb22a86f0fd84f7ba0096b619149e34e971ed3440e8699a61f4f9c3",
+  "created_at": "2026-10-09T05:26:35.289Z",
+  "deployed_at": "2026-10-09T05:26:35.289Z",
+  "expires_at": "2026-10-16T05:26:35.289Z",
+  "interested": false,
+  "live_verified_at": "2026-10-09T05:26:45.814Z",
+  "preview_url": "https://imagine-southampton.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321",
+  "tracker_row": 18,
+  "browser_qa_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321"
+}

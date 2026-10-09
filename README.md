@@ -47,7 +47,7 @@ Keep R2 private. The implementation uses the Cloudflare REST API with the one to
 ## Workflows
 
 - **Quality checks** runs tests, builds concepts, verifies them in Chromium and saves screenshots on every main push and pull request.
-- **Deploy reviewed concept** runs on manual dispatch, or a commit modifying `state/deploy-request.json` on main. It rechecks source fingerprint, review scores, browser QA, Cloudflare configuration, uploads immutable R2 releases, attaches one exact first-level hostname, then checks HTTPS before preparing a draft.
+- **Deploy reviewed concept** runs on manual dispatch, or a commit modifying `state/deploy-request.json` on main. It rechecks source fingerprint, review scores, browser QA, Cloudflare configuration, uploads immutable R2 releases, attaches one exact first-level hostname, then checks HTTPS before preparing a draft. User-authorized batches can include a `slugs` array of 1–10 distinct slugs alongside `slug` and `requested_at`; every site passes the same gates in sequence. The evidence artifact includes `batch-deployments/`, `outbox/` and `batch-summary.json`. This does not enable email sending or change quotas.
 - **Expire demo websites** runs at 01:15 Pakistan time (20:15 UTC) and on manual dispatch. The router stops serving expired demos at the expiry instant even if Actions is delayed. Cleanup deletes demo assets and exact custom domains, retaining a private tombstone. Interested demos are preserved.
 - **Demo lifecycle** marks a demo interested or expires it early.
 

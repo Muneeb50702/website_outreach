@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "everclean-belfast-3d25de036f37971cb9e0253c",
+  "slug": "everclean-belfast",
+  "fingerprint": "3587bbb310cb412bebe150802963019e1857218e778cab913ab2a8e80fad6797",
+  "status": "needs_gmail_review",
+  "created_at": "2026-10-09T05:24:51.537Z",
+  "expires_at": "2026-10-16T05:24:40.350Z",
+  "preview_url": "https://everclean-belfast.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-09T05:24:51.538Z",
+  "recipient_source": "https://evercleancleanings.wixsite.com/website",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "evercleancleaningsolutions@gmail.com",
+  "subject": "A website concept for EverClean Cleaning Solutions",
+  "body": "Hi EverClean Cleaning Solutions team,\n\nI came across your business in Belfast, Northern Ireland, United Kingdom and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://everclean-belfast.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up."
+}

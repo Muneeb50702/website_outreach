@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "slug": "everclean-belfast",
+  "hostname": "everclean-belfast.muhammadmuneeb.tech",
+  "business_name": "EverClean Cleaning Solutions",
+  "status": "active",
+  "release": "3d25de036f37971cb9e0253c",
+  "fingerprint": "3587bbb310cb412bebe150802963019e1857218e778cab913ab2a8e80fad6797",
+  "created_at": "2026-10-09T05:24:40.349Z",
+  "deployed_at": "2026-10-09T05:24:40.350Z",
+  "expires_at": "2026-10-16T05:24:40.350Z",
+  "interested": false,
+  "live_verified_at": "2026-10-09T05:24:51.538Z",
+  "preview_url": "https://everclean-belfast.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321",
+  "tracker_row": 14,
+  "browser_qa_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321"
+}

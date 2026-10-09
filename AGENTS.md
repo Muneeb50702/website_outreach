@@ -28,7 +28,7 @@ Write `state/SLUG.review.json` with the exact current fingerprint, reviewer, tim
 
 The quality report fingerprints every site file and the business brief. Any change invalidates the review. Deployment reads a fresh browser report and rechecks the fingerprint. It preserves the original expiry, switches releases atomically, and cannot select reserved hostnames. Serialized lifecycle workflows avoid races between deployment, preservation and cleanup.
 
-To deploy, commit `state/deploy-request.json` on main with `slug` and a unique `requested_at`, or use the manual workflow. Follow the run and inspect its logs. A pushed commit is not proof of deployment. A deployment response is not proof of HTTPS availability. Only the live verification stage may mark the URL verified.
+To deploy, commit `state/deploy-request.json` on main with `slug` and a unique `requested_at`, or use the manual workflow. For a user-authorized batch, add `slugs` with 1–10 distinct reviewed slugs; retain `slug` as the first entry. The batch runs the existing QA, deployment and HTTPS-verified draft stages for each site, in order, and preserves separate deployment records. Follow the run and inspect its logs. A pushed commit is not proof of deployment. A deployment response is not proof of HTTPS availability. Only the live verification stage may mark the URL verified.
 
 ## Outreach
 

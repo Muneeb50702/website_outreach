@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "imagine-southampton-15a660a07a7e046636491599",
+  "slug": "imagine-southampton",
+  "fingerprint": "3e355b734cb22a86f0fd84f7ba0096b619149e34e971ed3440e8699a61f4f9c3",
+  "status": "needs_gmail_review",
+  "created_at": "2026-10-09T05:26:45.813Z",
+  "expires_at": "2026-10-16T05:26:35.289Z",
+  "preview_url": "https://imagine-southampton.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-09T05:26:45.814Z",
+  "recipient_source": "https://mitchjames24.wixsite.com/imagineelectrical",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "mitchjames24@gmail.com",
+  "subject": "A website concept for Imagine Electrical",
+  "body": "Hi Imagine Electrical team,\n\nI came across your business in Southampton, Hampshire, United Kingdom and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://imagine-southampton.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up."
+}

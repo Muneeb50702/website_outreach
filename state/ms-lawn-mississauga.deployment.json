@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "slug": "ms-lawn-mississauga",
+  "hostname": "ms-lawn-mississauga.muhammadmuneeb.tech",
+  "business_name": "MS Lawn Care",
+  "status": "active",
+  "release": "757233b577c9952ca16447c5",
+  "fingerprint": "2ae39d2a5796ae86194955724b9dc99484d5ce87435c30995e840a888bcdc59f",
+  "created_at": "2026-10-09T05:25:49.701Z",
+  "deployed_at": "2026-10-09T05:25:49.701Z",
+  "expires_at": "2026-10-16T05:25:49.701Z",
+  "interested": false,
+  "live_verified_at": "2026-10-09T05:26:00.481Z",
+  "preview_url": "https://ms-lawn-mississauga.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321",
+  "tracker_row": 16,
+  "browser_qa_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321"
+}

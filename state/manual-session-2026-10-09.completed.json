@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "completed_at": "2026-10-09T05:30:54.121Z",
+  "request": "Continue existing workflow and build 10 additional websites",
+  "built_count": 10,
+  "total_built_count": 19,
+  "websites": [
+    {
+      "slug": "tops-tails-telford",
+      "business_name": "Tops N' Tails",
+      "preview_url": "https://tops-tails-telford.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:23:23.971Z",
+      "expires_at": "2026-10-16T05:23:23.971Z",
+      "live_verified_at": "2026-10-09T05:23:34.220Z",
+      "tracker_row": 11,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "zen-paws-burnley",
+      "business_name": "Zen Paws Spa",
+      "preview_url": "https://zen-paws-burnley.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:23:47.368Z",
+      "expires_at": "2026-10-16T05:23:47.368Z",
+      "live_verified_at": "2026-10-09T05:24:02.850Z",
+      "tracker_row": 12,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "mr-fussy-wirral",
+      "business_name": "Mr Fussy Window Cleaning Services",
+      "preview_url": "https://mr-fussy-wirral.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:24:15.835Z",
+      "expires_at": "2026-10-16T05:24:15.835Z",
+      "live_verified_at": "2026-10-09T05:24:26.891Z",
+      "tracker_row": 13,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "everclean-belfast",
+      "business_name": "EverClean Cleaning Solutions",
+      "preview_url": "https://everclean-belfast.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:24:40.349Z",
+      "expires_at": "2026-10-16T05:24:40.350Z",
+      "live_verified_at": "2026-10-09T05:24:51.538Z",
+      "tracker_row": 14,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "greensboro-mississauga",
+      "business_name": "Greensboro Property Work",
+      "preview_url": "https://greensboro-mississauga.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:25:06.150Z",
+      "expires_at": "2026-10-16T05:25:06.150Z",
+      "live_verified_at": "2026-10-09T05:25:36.896Z",
+      "tracker_row": 15,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "ms-lawn-mississauga",
+      "business_name": "MS Lawn Care",
+      "preview_url": "https://ms-lawn-mississauga.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:25:49.701Z",
+      "expires_at": "2026-10-16T05:25:49.701Z",
+      "live_verified_at": "2026-10-09T05:26:00.481Z",
+      "tracker_row": 16,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "hometeq-alfreton",
+      "business_name": "Hometeq Electrical Solutions",
+      "preview_url": "https://hometeq-alfreton.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:26:13.020Z",
+      "expires_at": "2026-10-16T05:26:13.020Z",
+      "live_verified_at": "2026-10-09T05:26:22.847Z",
+      "tracker_row": 17,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "imagine-southampton",
+      "business_name": "Imagine Electrical",
+      "preview_url": "https://imagine-southampton.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:26:35.289Z",
+      "expires_at": "2026-10-16T05:26:35.289Z",
+      "live_verified_at": "2026-10-09T05:26:45.814Z",
+      "tracker_row": 18,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "clear-reflections-cornwall",
+      "business_name": "Clear Reflections Professional Cleaning",
+      "preview_url": "https://clear-reflections-cornwall.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:26:58.228Z",
+      "expires_at": "2026-10-16T05:26:58.228Z",
+      "live_verified_at": "2026-10-09T05:27:14.136Z",
+      "tracker_row": 19,
+      "email_status": "Not sent"
+    },
+    {
+      "slug": "rocket-city-huntsville",
+      "business_name": "Rocket City Custom Upholstery",
+      "preview_url": "https://rocket-city-huntsville.muhammadmuneeb.tech/",
+      "created_at": "2026-10-09T05:27:27.530Z",
+      "expires_at": "2026-10-16T05:27:27.530Z",
+      "live_verified_at": "2026-10-09T05:27:38.354Z",
+      "tracker_row": 20,
+      "email_status": "Not sent"
+    }
+  ],
+  "tracker_url": "https://docs.google.com/spreadsheets/d/1gvdCQSVA7uM31zCJLyEtIhaHp33MePNp0Vdwoj4ImMA/edit",
+  "tracker_range": "Clients!A11:X20",
+  "source_quality_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37887938344",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321",
+  "checks": {
+    "unit_tests": 21,
+    "browser_viewports": [
+      320,
+      390,
+      768,
+      1440
+    ],
+    "new_site_screenshots_reviewed": 40,
+    "service_filters": "passed",
+    "mobile_menu": "passed",
+    "live_html_and_assets": "HTTPS verified"
+  },
+  "outreach": {
+    "draft_count": 10,
+    "new_email_sent_count": 0,
+    "demo_outreach_enabled": false,
+    "shared_daily_email_cap": 20
+  }
+}

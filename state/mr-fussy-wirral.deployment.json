@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "slug": "mr-fussy-wirral",
+  "hostname": "mr-fussy-wirral.muhammadmuneeb.tech",
+  "business_name": "Mr Fussy Window Cleaning Services",
+  "status": "active",
+  "release": "2706e62cd06ced2a9ebb1a55",
+  "fingerprint": "aa3477de40fb21823a4d20645437e630b42ec5611d9be4cf410a8489a9a8ee00",
+  "created_at": "2026-10-09T05:24:15.835Z",
+  "deployed_at": "2026-10-09T05:24:15.835Z",
+  "expires_at": "2026-10-16T05:24:15.835Z",
+  "interested": false,
+  "live_verified_at": "2026-10-09T05:24:26.891Z",
+  "preview_url": "https://mr-fussy-wirral.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321",
+  "tracker_row": 13,
+  "browser_qa_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321"
+}

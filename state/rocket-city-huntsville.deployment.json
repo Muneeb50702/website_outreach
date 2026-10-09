@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "slug": "rocket-city-huntsville",
+  "hostname": "rocket-city-huntsville.muhammadmuneeb.tech",
+  "business_name": "Rocket City Custom Upholstery",
+  "status": "active",
+  "release": "d65cba41e027a21c7602db58",
+  "fingerprint": "53d5354e7a03ac2086e50d534c210c1da85e52ea420266c75c8a512850858979",
+  "created_at": "2026-10-09T05:27:27.530Z",
+  "deployed_at": "2026-10-09T05:27:27.530Z",
+  "expires_at": "2026-10-16T05:27:27.530Z",
+  "interested": false,
+  "live_verified_at": "2026-10-09T05:27:38.354Z",
+  "preview_url": "https://rocket-city-huntsville.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321",
+  "tracker_row": 20,
+  "browser_qa_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321"
+}

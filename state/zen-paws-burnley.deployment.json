@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "slug": "zen-paws-burnley",
+  "hostname": "zen-paws-burnley.muhammadmuneeb.tech",
+  "business_name": "Zen Paws Spa",
+  "status": "active",
+  "release": "5907b2dc16163bed9c6fca22",
+  "fingerprint": "330524f65c82c3b6def4942c3cb697a413631ab420e0bacaa99e7a44c545e500",
+  "created_at": "2026-10-09T05:23:47.368Z",
+  "deployed_at": "2026-10-09T05:23:47.368Z",
+  "expires_at": "2026-10-16T05:23:47.368Z",
+  "interested": false,
+  "live_verified_at": "2026-10-09T05:24:02.850Z",
+  "preview_url": "https://zen-paws-burnley.muhammadmuneeb.tech/",
+  "deployment_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321",
+  "tracker_row": 12,
+  "browser_qa_workflow_url": "https://github.com/Muneeb50702/website_outreach/actions/runs/37888244321"
+}
