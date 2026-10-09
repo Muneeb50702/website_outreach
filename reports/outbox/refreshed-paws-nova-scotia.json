@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "refreshed-paws-nova-scotia-1d4c2e1e04f07a2ff4e4ffd6",
+  "slug": "refreshed-paws-nova-scotia",
+  "fingerprint": "0e14e10fb9944dc485b2b5eb6d240f602143caab19f76f67d97c1e2e9c942d0e",
+  "status": "sent",
+  "created_at": "2026-10-07T11:31:30.554Z",
+  "expires_at": "2026-10-14T11:31:12.314Z",
+  "preview_url": "https://refreshed-paws-nova-scotia.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-07T11:31:30.554Z",
+  "recipient_source": "https://amymoxsom1984.wixsite.com/refreshedpawsgroom-2",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "amoxsom@gmail.com",
+  "subject": "A website concept for Refreshed Paws Grooming Services",
+  "body": "Hi Refreshed Paws Grooming Services team,\n\nI came across your business in Shubenacadie, Nova Scotia, Canada and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://refreshed-paws-nova-scotia.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up.",
+  "recipient": "amoxsom@gmail.com",
+  "sent_at": "2026-10-09T05:58:30.000Z",
+  "gmail_message_id": "1a11f3ddc23a35bb",
+  "gmail_thread_id": "1a11f3ddc23a35bb",
+  "source": "Gmail Sent with exact recipient, subject, demo URL and timestamp readback",
+  "delivery_status": "not confirmed",
+  "checks_completed_at": "2026-10-09T05:58:30.788Z"
+}

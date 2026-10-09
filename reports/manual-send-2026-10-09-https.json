@@ -1,0 +1,166 @@
+{
+  "checked_at": "2026-10-09T05:55:15.075001+00:00",
+  "method": "HTTPS curl GET; exact deployed HTML and noindex verified",
+  "results": [
+    {
+      "slug": "headline-waterloo",
+      "url": "https://headline-waterloo.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "ita-decor-surrey",
+      "url": "https://ita-decor-surrey.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "prestige-pressure-sydney",
+      "url": "https://prestige-pressure-sydney.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "frock-me-london",
+      "url": "https://frock-me-london.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "glen-iris-bakery-melbourne",
+      "url": "https://glen-iris-bakery-melbourne.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "refreshed-paws-nova-scotia",
+      "url": "https://refreshed-paws-nova-scotia.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "tops-tails-telford",
+      "url": "https://tops-tails-telford.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "zen-paws-burnley",
+      "url": "https://zen-paws-burnley.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "mr-fussy-wirral",
+      "url": "https://mr-fussy-wirral.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "everclean-belfast",
+      "url": "https://everclean-belfast.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "greensboro-mississauga",
+      "url": "https://greensboro-mississauga.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "ms-lawn-mississauga",
+      "url": "https://ms-lawn-mississauga.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "hometeq-alfreton",
+      "url": "https://hometeq-alfreton.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "imagine-southampton",
+      "url": "https://imagine-southampton.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "clear-reflections-cornwall",
+      "url": "https://clear-reflections-cornwall.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    },
+    {
+      "slug": "rocket-city-huntsville",
+      "url": "https://rocket-city-huntsville.muhammadmuneeb.tech/",
+      "status": "200",
+      "noindex": true,
+      "html_match": true,
+      "expected_exists": true,
+      "unexpired": true,
+      "eligible": true
+    }
+  ]
+}

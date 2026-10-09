@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "greensboro-mississauga-5698f1ab8b8de3738fef71e8",
+  "slug": "greensboro-mississauga",
+  "fingerprint": "086d9e9bcccfdc477ef56876d21be2874e27577dc11b065e06a07cd7539eddf2",
+  "status": "sent",
+  "created_at": "2026-10-09T05:25:36.896Z",
+  "expires_at": "2026-10-16T05:25:06.150Z",
+  "preview_url": "https://greensboro-mississauga.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-09T05:25:36.896Z",
+  "recipient_source": "https://greensboroproperty.wixsite.com/website",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "greensboropropertywork@gmail.com",
+  "subject": "A website concept for Greensboro Property Work",
+  "body": "Hi Greensboro Property Work team,\n\nI came across your business in Mississauga and Greater Toronto Area, Ontario, Canada and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://greensboro-mississauga.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up.",
+  "recipient": "greensboropropertywork@gmail.com",
+  "sent_at": "2026-10-09T06:01:38.000Z",
+  "gmail_message_id": "1a11f40ba39001bc",
+  "gmail_thread_id": "1a11f40ba39001bc",
+  "source": "Gmail Sent with exact recipient, subject, demo URL and timestamp readback",
+  "delivery_status": "not confirmed",
+  "checks_completed_at": "2026-10-09T06:01:38.607Z"
+}

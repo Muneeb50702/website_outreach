@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "rocket-city-huntsville-d65cba41e027a21c7602db58",
+  "slug": "rocket-city-huntsville",
+  "fingerprint": "53d5354e7a03ac2086e50d534c210c1da85e52ea420266c75c8a512850858979",
+  "status": "sent",
+  "created_at": "2026-10-09T05:27:38.354Z",
+  "expires_at": "2026-10-16T05:27:27.530Z",
+  "preview_url": "https://rocket-city-huntsville.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-09T05:27:38.354Z",
+  "recipient_source": "https://rocketcityupholstery.wixsite.com/rocketcityupholstery",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "rocketcityupholstery@gmail.com",
+  "subject": "A website concept for Rocket City Custom Upholstery",
+  "body": "Hi Rocket City Custom Upholstery team,\n\nI came across your business in Huntsville, Alabama, USA and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://rocket-city-huntsville.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up.",
+  "recipient": "rocketcityupholstery@gmail.com",
+  "sent_at": "2026-10-09T06:03:18.000Z",
+  "gmail_message_id": "1a11f42435a93b1e",
+  "gmail_thread_id": "1a11f42435a93b1e",
+  "source": "Gmail Sent with exact recipient, subject, demo URL and timestamp readback",
+  "delivery_status": "not confirmed",
+  "checks_completed_at": "2026-10-09T06:03:19.015Z"
+}

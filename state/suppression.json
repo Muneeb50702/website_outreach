@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "email": "sales@synwavesolutions.com",
+    "reason": "Confirmed Gmail delivery failure: 554 5.7.1 Relay access denied",
+    "gmail_bounce_message_id": "1a114b83ce5773e8",
+    "recorded_at": "2026-10-09T06:11:23.619Z"
+  },
+  {
+    "email": "sales@greatodeal.com",
+    "reason": "Confirmed Gmail delivery failure: 554 5.7.1 Relay access denied",
+    "gmail_bounce_message_id": "1a1148ba193eca36",
+    "recorded_at": "2026-10-09T06:11:23.619Z"
+  }
+]

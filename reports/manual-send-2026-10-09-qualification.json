@@ -1,0 +1,305 @@
+{
+  "recorded_at": "2026-10-09T06:11:23.621Z",
+  "reviews": [
+    {
+      "slug": "headline-waterloo",
+      "recipient": "headline.barber.shop@gmail.com",
+      "recipient_source": "https://headlinebarbershop.wixsite.com/website",
+      "preview_url": "https://headline-waterloo.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "2fb1582f449a278e21b3895f8f16349e6e3dafda37a4756e65527281f1eaa7c1",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "observation": "The existing desktop page has a large logo/header and broad empty pricing-title area. On the actual mobile final screenshot, a booking action and contact details are visible, followed by a large blank area; the service offer and shop hours do not appear in that first view. Phone is plain text in the inspected desktop accessibility tree. This concept adds a clearer first-screen service offer and direct call links while keeping official-site access. Existing booking already works; no lost-sales claim.",
+        "source_url": "https://headlinebarbershop.wixsite.com/website",
+        "priority": "verified_design_hypothesis",
+        "qualified_for_outreach": false,
+        "comparison_checked_at": "2026-10-07T10:44:53.166731Z",
+        "comparison_evidence": "Desktop browser screenshot inspected and actual emulated mobile final screenshot from Google PageSpeed inspected. The lab report is not real-user conversion evidence. No prior Gmail match in bounded identity search. Buying interest and deliverability unknown. Outreach not requested for this three-demo session.",
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-headlinebarbershop-wixsite-com-website/dx9rkpfqkt?form_factor=mobile"
+      },
+      "gmail_message_id": "1a11f3c8c9492e48"
+    },
+    {
+      "slug": "ita-decor-surrey",
+      "recipient": "andras.ita30@gmail.com",
+      "recipient_source": "https://ita-decor.wixsite.com/ita-decor",
+      "preview_url": "https://ita-decor-surrey.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "020664d2e522905686b4c3a24477674b414ac1f74099b0ca6cfc6260fdd14d64",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "observation": "The desktop site presents dense copy, drop shadows and small service text. The actual mobile final screenshot scales the whole desktop layout into a narrow phone screen with tiny multi-column text and navigation. The concept reflows into a readable single column with a direct phone link and service grouping. Design hypothesis only; no measured sales loss.",
+        "source_url": "https://ita-decor.wixsite.com/ita-decor",
+        "priority": "verified_design_hypothesis",
+        "qualified_for_outreach": false,
+        "comparison_checked_at": "2026-10-07T10:44:53.166731Z",
+        "comparison_evidence": "Direct desktop screenshot and Google PageSpeed emulated mobile final screenshot actually inspected. Mobile screenshot shows desktop-style grid scaled down; not a full accessibility or real-user audit. Bounded Gmail identity search found no prior match. No outreach requested for this three-demo session.",
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-ita-decor-wixsite-com-ita-decor/2zksnkgjtv?form_factor=mobile"
+      },
+      "gmail_message_id": "1a11f3dba19b46af"
+    },
+    {
+      "slug": "prestige-pressure-sydney",
+      "recipient": "PrestigePressureC@gmail.com",
+      "recipient_source": "https://prestigepressureapm.wixsite.com/prestige-pressure-an",
+      "preview_url": "https://prestige-pressure-sydney.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "8fa55b0f4b00afa5eb903f007aad2525c85c4b36df4ee9a0b905ebb9930491c2",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "observation": "Existing desktop site already has a contact action and project imagery. Phone is footer text. Actual mobile screenshot starts with a large brand header, small centred introductory text and a Contact Us action, then project photos; direct phone call is not visible in the initial screen. Proposed clearer service headline and direct call action is a bounded improvement hypothesis, not a claim that the existing site is unusable or loses sales.",
+        "source_url": "https://prestigepressureapm.wixsite.com/prestige-pressure-an",
+        "priority": "verified_design_hypothesis",
+        "qualified_for_outreach": false,
+        "comparison_checked_at": "2026-10-07T10:44:53.166731Z",
+        "comparison_evidence": "Desktop browser screenshot and actual Google PageSpeed emulated mobile final screenshot inspected. Existing site has genuine imagery and contact form; concept deliberately uses disclosed original illustration. Bounded Gmail identity search found no prior match. Outreach not requested for this three-demo session.",
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-prestigepressureapm-wixsite-com-prestige-pressure-an/25fcsbsqy0?form_factor=mobile"
+      },
+      "gmail_message_id": "1a11f3dc582d5283"
+    },
+    {
+      "slug": "frock-me-london",
+      "recipient": "rosieatkinson718@gmail.com",
+      "recipient_source": "https://rosieatkinson718.wixsite.com/frockmehandmade",
+      "preview_url": "https://frock-me-london.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "d984480144db26b93af36b396e1efbcd1b589d2d6c26873e2d62a843a084d132",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "observation": "Existing desktop first screen is dominated by a large graphic, with the service description below the first fold and contact far down a very long portfolio. Actual mobile preview has a large blank gap above the graphic and no clear first-screen project enquiry. Existing responsive navigation and portfolio are functional; concept proposes a focused craft overview and first-screen contact, not a measured conversion fix.",
+        "source_url": "https://rosieatkinson718.wixsite.com/frockmehandmade",
+        "priority": "verified_design_hypothesis",
+        "qualified_for_outreach": false,
+        "comparison_checked_at": "2026-10-07T11:23:23.476086Z",
+        "comparison_evidence": "Actual desktop screenshots and emulated mobile final screenshots inspected. Bounded Gmail identity search found no matches. This publishing request does not authorize new email sends.",
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-rosieatkinson718-wixsite-com-frockmehandmade/u11snb1flx?form_factor=mobile"
+      },
+      "gmail_message_id": "1a11f3dcd80c5c82"
+    },
+    {
+      "slug": "glen-iris-bakery-melbourne",
+      "recipient": "glenirisbakerycafe@gmail.com",
+      "recipient_source": "https://glenirisbakerycafe.wixsite.com/mysite",
+      "preview_url": "https://glen-iris-bakery-melbourne.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "ba756f3ae981ab06b6e7720b8c8457f9a9ef65fff5b2a435fc5f9a650bd72f55",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "observation": "The existing desktop and actual mobile site are responsive and have delivery navigation. Mobile header contact text is tiny, phone is presented as text and the first See Menu link on the home page returns to the same page; later menu links work. A focused category menu and direct phone action could make browsing easier. No measured conversion claim.",
+        "source_url": "https://glenirisbakerycafe.wixsite.com/mysite",
+        "priority": "verified_design_hypothesis",
+        "qualified_for_outreach": false,
+        "comparison_checked_at": "2026-10-07T11:23:23.476086Z",
+        "comparison_evidence": "Actual desktop screenshots and emulated mobile final screenshots inspected. Bounded Gmail identity search found no matches. This publishing request does not authorize new email sends.",
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-glenirisbakerycafe-wixsite-com-mysite/xbd011b4kl?form_factor=mobile"
+      },
+      "gmail_message_id": "1a11f3dd462c2fbf"
+    },
+    {
+      "slug": "refreshed-paws-nova-scotia",
+      "recipient": "amoxsom@gmail.com",
+      "recipient_source": "https://amymoxsom1984.wixsite.com/refreshedpawsgroom-2",
+      "preview_url": "https://refreshed-paws-nova-scotia.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "0e14e10fb9944dc485b2b5eb6d240f602143caab19f76f67d97c1e2e9c942d0e",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "observation": "The existing responsive site provides a public email, phone and booking navigation. Its first screen repeats the long business name and uses dense small contact copy below a tall black hero. The concept gives grooming choices and the named owner a clearer hierarchy with a prominent call link. This is a design hypothesis; no claim that booking is broken or sales are lost.",
+        "source_url": "https://amymoxsom1984.wixsite.com/refreshedpawsgroom-2",
+        "priority": "verified_design_hypothesis",
+        "qualified_for_outreach": false,
+        "comparison_checked_at": "2026-10-07T11:23:23.476086Z",
+        "comparison_evidence": "Actual desktop screenshots and emulated mobile final screenshots inspected. Bounded Gmail identity search found no matches. This publishing request does not authorize new email sends.",
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-amymoxsom1984-wixsite-com-refreshedpawsgroom-2/xttzopxff1?form_factor=mobile"
+      },
+      "gmail_message_id": "1a11f3ddc23a35bb"
+    },
+    {
+      "slug": "tops-tails-telford",
+      "recipient": "topsntailsgrooming@gmail.com",
+      "recipient_source": "https://topsntailsgrooming.wixsite.com/my-site",
+      "preview_url": "https://tops-tails-telford.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "311513e7ae6ba0013172db773cddea6094e4350676435913fbb6670a767ad882",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-topsntailsgrooming-wixsite-com-my-site/miqnwnv4w6?form_factor=mobile",
+        "observation": "Desktop opens with a large grooming gallery; mobile puts gallery and lengthy About copy ahead of treatment choices and direct contact.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f4098fb4c8cc"
+    },
+    {
+      "slug": "zen-paws-burnley",
+      "recipient": "zenpawsspagrooming@gmail.com",
+      "recipient_source": "https://orreauva.wixsite.com/zenpawsspa",
+      "preview_url": "https://zen-paws-burnley.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "330524f65c82c3b6def4942c3cb697a413631ab420e0bacaa99e7a44c545e500",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-orreauva-wixsite-com-zenpawsspa/mxyc7rrrlm?form_factor=mobile",
+        "observation": "Desktop has booking navigation. Mobile opens with logo and a large welcome/photo hero. The concept groups treatments and the verified contact email.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f40a0ffd200c"
+    },
+    {
+      "slug": "mr-fussy-wirral",
+      "recipient": "mrfussywindows@gmail.com",
+      "recipient_source": "https://mrfussywindows.wixsite.com/mrfussywindows",
+      "preview_url": "https://mr-fussy-wirral.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "aa3477de40fb21823a4d20645437e630b42ec5611d9be4cf410a8489a9a8ee00",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-mrfussywindows-wixsite-com-mrfussywindows/w7sf7ln6ky?form_factor=mobile",
+        "observation": "The email wraps across lines in desktop and mobile headers. The concept groups three supported window-service categories and provides a direct phone link.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f40a632d0d58"
+    },
+    {
+      "slug": "everclean-belfast",
+      "recipient": "evercleancleaningsolutions@gmail.com",
+      "recipient_source": "https://evercleancleanings.wixsite.com/website",
+      "preview_url": "https://everclean-belfast.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "3587bbb310cb412bebe150802963019e1857218e778cab913ab2a8e80fad6797",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-evercleancleanings-wixsite-com-website/4qaihgq2kg?form_factor=mobile",
+        "observation": "Mobile leads with a wrapped contact email, business title and large brand image before service details. A shorter service-first hierarchy is a bounded design proposal.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f40b3b3e84e2"
+    },
+    {
+      "slug": "greensboro-mississauga",
+      "recipient": "greensboropropertywork@gmail.com",
+      "recipient_source": "https://greensboroproperty.wixsite.com/website",
+      "preview_url": "https://greensboro-mississauga.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "086d9e9bcccfdc477ef56876d21be2874e27577dc11b065e06a07cd7539eddf2",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-greensboroproperty-wixsite-com-website/edd9rz2c2w?form_factor=mobile",
+        "observation": "Desktop uses a tall brand/service hero. Mobile shows the brand and a project photograph before the longer introduction; a direct call action is absent from that first view.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f40ba39001bc"
+    },
+    {
+      "slug": "ms-lawn-mississauga",
+      "recipient": "mitchellsahely@gmail.com",
+      "recipient_source": "https://mitchsahely.wixsite.com/mslawncare-1",
+      "preview_url": "https://ms-lawn-mississauga.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "2ae39d2a5796ae86194955724b9dc99484d5ce87435c30995e840a888bcdc59f",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-mitchsahely-wixsite-com-mslawncare-1/d32a8yqwvz?form_factor=mobile",
+        "observation": "Desktop and mobile open with the brand and a general service introduction. Mobile has no visible direct contact action in its first screen. The concept surfaces service categories and a phone link.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f46aec276a75"
+    },
+    {
+      "slug": "hometeq-alfreton",
+      "recipient": "hometeqelectrical@gmail.com",
+      "recipient_source": "https://hometeqelectrical.wixsite.com/website",
+      "preview_url": "https://hometeq-alfreton.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "d663f6a6f867a786541d442ea54715a0d0c6b20f9a1e898f36c3cdd6761874b0",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-hometeqelectrical-wixsite-com-website/46yrnuwxd3?form_factor=mobile",
+        "observation": "The current desktop and mobile header already show email and phone as text. The proposal adds a direct call action and clearer service groupings; it does not claim the existing site is unusable.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f4224798531a"
+    },
+    {
+      "slug": "imagine-southampton",
+      "recipient": "mitchjames24@gmail.com",
+      "recipient_source": "https://mitchjames24.wixsite.com/imagineelectrical",
+      "preview_url": "https://imagine-southampton.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "3e355b734cb22a86f0fd84f7ba0096b619149e34e971ed3440e8699a61f4f9c3",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-mitchjames24-wixsite-com-imagineelectrical/993iaepp64?form_factor=mobile",
+        "observation": "A quotation dominates the initial desktop and mobile hero. The concept instead leads with supported electrical work and contact options.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f422c82d1d19"
+    },
+    {
+      "slug": "clear-reflections-cornwall",
+      "recipient": "clearreflections17@gmail.com",
+      "recipient_source": "https://clearreflections17.wixsite.com/cleaningservices",
+      "preview_url": "https://clear-reflections-cornwall.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "82a541532c49a0c0d8c12283d595cabc572b3fc54f6902450a10dbdba701f0f7",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-clearreflections17-wixsite-com-cleaningservices/q9e10mm60z?form_factor=mobile",
+        "observation": "The mobile email wraps and the large italic business title overlays a photograph. The existing Contact Us button is present; the proposal tests clearer service and call hierarchy.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f42342ac8689"
+    },
+    {
+      "slug": "rocket-city-huntsville",
+      "recipient": "rocketcityupholstery@gmail.com",
+      "recipient_source": "https://rocketcityupholstery.wixsite.com/rocketcityupholstery",
+      "preview_url": "https://rocket-city-huntsville.muhammadmuneeb.tech/",
+      "deployed_fingerprint": "53d5354e7a03ac2086e50d534c210c1da85e52ea420266c75c8a512850858979",
+      "qualified_for_bounded_design_outreach": true,
+      "confirmed_buyer": false,
+      "authorization": "Current user explicitly requested all pending demo emails.",
+      "comparison": {
+        "desktop_screenshot_inspected": true,
+        "mobile_final_screenshot_inspected": true,
+        "mobile_report_url": "https://pagespeed.web.dev/analysis/https-rocketcityupholstery-wixsite-com-rocketcityupholstery/6ly91tm3w3?form_factor=mobile",
+        "observation": "Desktop and mobile show a personal contact email in the header, while the page explicitly labels a separate business contact email later. The proposal uses that public business email consistently and groups supported upholstery services.",
+        "limitations": "Emulated mobile laboratory preview, not real-user performance or measured sales loss."
+      },
+      "gmail_message_id": "1a11f42435a93b1e"
+    }
+  ]
+}

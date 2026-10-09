@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "tops-tails-telford-680c96b104747277178becde",
+  "slug": "tops-tails-telford",
+  "fingerprint": "311513e7ae6ba0013172db773cddea6094e4350676435913fbb6670a767ad882",
+  "status": "sent",
+  "created_at": "2026-10-09T05:23:34.220Z",
+  "expires_at": "2026-10-16T05:23:23.971Z",
+  "preview_url": "https://tops-tails-telford.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-09T05:23:34.220Z",
+  "recipient_source": "https://topsntailsgrooming.wixsite.com/my-site",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "topsntailsgrooming@gmail.com",
+  "subject": "A website concept for Tops N' Tails",
+  "body": "Hi Tops N' Tails team,\n\nI came across your business in Malinslee, Telford, United Kingdom and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://tops-tails-telford.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up.",
+  "recipient": "topsntailsgrooming@gmail.com",
+  "sent_at": "2026-10-09T06:01:29.000Z",
+  "gmail_message_id": "1a11f4098fb4c8cc",
+  "gmail_thread_id": "1a11f4098fb4c8cc",
+  "source": "Gmail Sent with exact recipient, subject, demo URL and timestamp readback",
+  "delivery_status": "not confirmed",
+  "checks_completed_at": "2026-10-09T06:01:30.297Z"
+}

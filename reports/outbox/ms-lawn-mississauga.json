@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ms-lawn-mississauga-757233b577c9952ca16447c5",
+  "slug": "ms-lawn-mississauga",
+  "fingerprint": "2ae39d2a5796ae86194955724b9dc99484d5ce87435c30995e840a888bcdc59f",
+  "status": "sent",
+  "created_at": "2026-10-09T05:26:00.481Z",
+  "expires_at": "2026-10-16T05:25:49.701Z",
+  "preview_url": "https://ms-lawn-mississauga.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-09T05:26:00.481Z",
+  "recipient_source": "https://mitchsahely.wixsite.com/mslawncare-1",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "mitchellsahely@gmail.com",
+  "subject": "A website concept for MS Lawn Care",
+  "body": "Hi MS Lawn Care team,\n\nI came across your business in Mississauga, Ontario, Canada and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://ms-lawn-mississauga.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up.",
+  "recipient": "mitchellsahely@gmail.com",
+  "sent_at": "2026-10-09T06:08:08.000Z",
+  "gmail_message_id": "1a11f46aec276a75",
+  "gmail_thread_id": "1a11f46aec276a75",
+  "source": "Gmail Sent with exact recipient, subject, demo URL and timestamp readback",
+  "delivery_status": "not confirmed",
+  "checks_completed_at": "2026-10-09T06:08:09.089Z"
+}

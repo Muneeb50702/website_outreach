@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ita-decor-surrey-ecb7634d068526b44ac5ea87",
+  "slug": "ita-decor-surrey",
+  "fingerprint": "020664d2e522905686b4c3a24477674b414ac1f74099b0ca6cfc6260fdd14d64",
+  "status": "sent",
+  "created_at": "2026-10-07T10:51:59.638Z",
+  "expires_at": "2026-10-14T10:51:49.627Z",
+  "preview_url": "https://ita-decor-surrey.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-07T10:51:59.639Z",
+  "recipient_source": "https://ita-decor.wixsite.com/ita-decor",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "andras.ita30@gmail.com",
+  "subject": "A website concept for ITA-DECOR",
+  "body": "Hi ITA-DECOR team,\n\nI came across your business in Surrey and South West London, United Kingdom and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://ita-decor-surrey.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up.",
+  "recipient": "andras.ita30@gmail.com",
+  "sent_at": "2026-10-09T05:58:21.000Z",
+  "gmail_message_id": "1a11f3dba19b46af",
+  "gmail_thread_id": "1a11f3dba19b46af",
+  "source": "Gmail Sent with exact recipient, subject, demo URL and timestamp readback",
+  "delivery_status": "not confirmed",
+  "checks_completed_at": "2026-10-09T05:58:22.280Z"
+}

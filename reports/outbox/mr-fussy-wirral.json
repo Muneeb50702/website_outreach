@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "mr-fussy-wirral-2706e62cd06ced2a9ebb1a55",
+  "slug": "mr-fussy-wirral",
+  "fingerprint": "aa3477de40fb21823a4d20645437e630b42ec5611d9be4cf410a8489a9a8ee00",
+  "status": "sent",
+  "created_at": "2026-10-09T05:24:26.891Z",
+  "expires_at": "2026-10-16T05:24:15.835Z",
+  "preview_url": "https://mr-fussy-wirral.muhammadmuneeb.tech/",
+  "live_verified_at": "2026-10-09T05:24:26.891Z",
+  "recipient_source": "https://mrfussywindows.wixsite.com/mrfussywindows",
+  "checks_required": [
+    "Reconcile Gmail Sent for current Asia/Karachi date, across manual and automated outreach",
+    "Confirm public business recipient, prior contact, opt-outs and bounces in Gmail",
+    "Qualify this prospect using a current website comparison",
+    "Recheck demo URL and remaining shared daily quota before sending"
+  ],
+  "to": "mrfussywindows@gmail.com",
+  "subject": "A website concept for Mr Fussy Window Cleaning Services",
+  "body": "Hi Mr Fussy Window Cleaning Services team,\n\nI came across your business in Wirral, United Kingdom and built an independent website concept around your publicly listed services. It brings the service overview and phone contact into one mobile-friendly page.\n\nPreview: https://mr-fussy-wirral.muhammadmuneeb.tech/\n\nThis is a design proposal, not your live business website. If the direction is useful, I'd be happy to discuss adapting it for your business.\n\nMuhammad Muneeb\nPortfolio: https://muhammadmuneeb.tech/\nLinkedIn: https://www.linkedin.com/in/muhammad-muneeb-yaseen\nGitHub: https://github.com/Muneeb50702\n\nIf this isn't relevant, reply 'no thanks' and I won't follow up.",
+  "recipient": "mrfussywindows@gmail.com",
+  "sent_at": "2026-10-09T06:01:33.000Z",
+  "gmail_message_id": "1a11f40a632d0d58",
+  "gmail_thread_id": "1a11f40a632d0d58",
+  "source": "Gmail Sent with exact recipient, subject, demo URL and timestamp readback",
+  "delivery_status": "not confirmed",
+  "checks_completed_at": "2026-10-09T06:01:33.922Z"
+}
