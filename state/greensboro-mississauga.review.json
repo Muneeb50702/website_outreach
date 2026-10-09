@@ -1,0 +1,25 @@
+{
+  "approved": true,
+  "fingerprint": "086d9e9bcccfdc477ef56876d21be2874e27577dc11b065e06a07cd7539eddf2",
+  "reviewer": "Codex — actual screenshot inspection",
+  "reviewed_at": "2026-10-09T05:22:03.958Z",
+  "scores": {
+    "visual": 8.9,
+    "mobile": 8.7,
+    "business_relevance": 9,
+    "typography": 8.9,
+    "conversion": 8.7
+  },
+  "evidence": [
+    "All four actual full-page screenshots inspected: 320, 390, 768 and 1440px.",
+    "Editorial garden layout with distinct landscape, construction and winter categories; long email wraps safely.",
+    "Browser QA, mobile menu and service-filter checks passed: https://github.com/Muneeb50702/website_outreach/actions/runs/37887938344",
+    "Initial screenshots visually reviewed; rendered site files are unchanged in the final QA run. Zen Paws call-window metadata was corrected separately."
+  ],
+  "limitations": [
+    "Scores are subjective design judgments, not Lighthouse results or measured conversion performance.",
+    "Illustrations are generic original design assets and do not depict verified business work.",
+    "Public contact sources do not establish current operations, inbox deliverability or sales qualification.",
+    "No live booking, payment or customer-information collection."
+  ]
+}
